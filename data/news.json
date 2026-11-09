@@ -1,7 +1,93 @@
 {
- "generated": "2026-11-09T18:59:25Z",
+ "generated": "2026-11-09T21:53:16Z",
  "errors": [],
  "items": [
+  {
+   "title": "Top Yen Forecaster Predicts 147 Per Dollar as Rate Gap Narrows",
+   "link": "https://www.livemint.com/market/top-yen-forecaster-predicts-147-per-dollar-as-rate-gap-narrows-11794259355721.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-09T21:22:35Z",
+   "summary": "Neil Parker has spent nearly three decades tracking the yen, through financial crises and sharp currency swings. Now, the top dollar-yen forecaster in Bloomberg’s latest rankings sees the Japanese currency rallying…",
+   "tags": [
+    "FX"
+   ]
+  },
+  {
+   "title": "Nvidia plunges but tech shares rebound, oil prices slump",
+   "link": "https://www.thehindu.com/business/markets/nvidia-plunges-but-tech-shares-rebound-oil-prices-slump/article71683988.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-09T21:13:33Z",
+   "summary": "Nvidia shares slumped more than 8% as trading got under way in New York but recovered to stand down more than 5% in early afternoon trading",
+   "tags": [
+    "Oil",
+    "Equities"
+   ]
+  },
+  {
+   "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+   "source": "Federal Reserve",
+   "category": "Central banks",
+   "published": "2026-11-09T21:00:00Z",
+   "summary": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+   "tags": [
+    "Fed"
+   ]
+  },
+  {
+   "title": "Viking Loses 1.2% in October After Eschewing Many Big AI Bets",
+   "link": "https://www.livemint.com/market/viking-loses-1-2-in-october-after-eschewing-many-big-ai-bets-11794256428481.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-09T20:33:48Z",
+   "summary": "Viking Global Investors’ flagship hedge fund dropped 1.2% last month, faring better than many of its rivals after largely avoiding high-flying artificial-intelligence stocks.",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "Oil down more than $7 a barrel in post settlement trade as Trump signals restraint on Iran",
+   "link": "https://www.livemint.com/market/oil-down-more-than-7-a-barrel-in-post-settlement-trade-as-trump-signals-restraint-on-iran-11794254623929.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-09T20:03:43Z",
+   "summary": "GLOBAL-OIL:Oil down more than $7 a barrel in post settlement trade as Trump signals restraint on Iran",
+   "tags": []
+  },
+  {
+   "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+   "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-09T19:58:01Z",
+   "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+   "tags": [
+    "FX",
+    "Equities"
+   ]
+  },
+  {
+   "title": "Canadian dollar underperforms most G10 currencies as oil falls",
+   "link": "https://www.livemint.com/market/canadian-dollar-underperforms-most-g10-currencies-as-oil-falls-11794252780817.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-09T19:33:00Z",
+   "summary": "CANADA-FOREX/:CANADA FX DEBT-Canadian dollar underperforms most G10 currencies as oil falls",
+   "tags": [
+    "FX"
+   ]
+  },
+  {
+   "title": "The facial recognition technology stopping shoplifters",
+   "link": "https://www.bbc.co.uk/news/videos/c5x2v2kpwzgvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-09T19:00:43Z",
+   "summary": "Business correspondent Emma Simpson tries out Sainsbury's facial recognition technology.",
+   "tags": []
+  },
   {
    "title": "How a civil servant got away with juggling five jobs for so long",
    "link": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
@@ -19,18 +105,6 @@
    "published": "2026-11-09T18:30:48Z",
    "summary": "Veritas Finance plans to use fresh issue proceeds to strengthen capital base and support future lending operations",
    "tags": []
-  },
-  {
-   "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-   "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Global",
-   "published": "2026-11-09T18:11:11Z",
-   "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
-   "tags": [
-    "FX",
-    "Equities"
-   ]
   },
   {
    "title": "Broadcom shares pop over 9%, on track for biggest one-day surge in a year. What's driving the rebound?",
@@ -257,7 +331,7 @@
    ]
   },
   {
-   "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: Dow rockets 1,100 pts after last week's tech-led rout; oil prices swing",
+   "title": "Dow Jones| Nasdaq | US Stock Market Today | Highlights: Dow rockets 1,200 pts after last week's tech-led rout; oil prices swing",
    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-inflation-fed-rate-nvidia-jensen-huang-marvell-tech-qualcomm-meta-micrsoft-ai-chip-stock-price-news-9th-november-2026/liveblog/135683531.cms",
    "source": "Economic Times – Markets",
    "category": "India",
