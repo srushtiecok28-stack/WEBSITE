@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Contact | Srushti Patil — Financial Engineering</title>
-  <meta name="description" content="Get in touch.">
+  <meta name="description" content="Get in touch for quantitative finance research, collaboration, or general inquiries.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;700&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
@@ -17,50 +17,46 @@
   <main id="main" class="wrap">
     <div class="page-title">
       <h1>Contact</h1>
-      <p>Collaborations, questions, feedback on a model — send a note.</p>
+      <p>Have a question, feedback on macro analysis, or interested in collaborating on quantitative finance research? Send a message below.</p>
     </div>
 
-    <form class="form" id="contact-form" method="post">
-      <label>Name <input name="name" required autocomplete="name"></label>
-      <label>Email <input name="email" type="email" required autocomplete="email"></label>
-      <label>Message <textarea name="message" required></textarea></label>
-      <input class="hp" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true">
-      <div><button class="btn" type="submit">SEND MESSAGE</button></div>
-      <p id="form-status" role="status" aria-live="polite"></p>
-    </form>
+    <section class="section">
+      <!-- Replace YOUR_FORMSPREE_ID with your form ID from formspree.io -->
+      <form class="form" action="https://formspree.io/f/YOUR_FORMSPREE_ID" method="POST">
+        
+        <label for="full-name">
+          Full Name
+          <input type="text" id="full-name" name="name" required placeholder="Jane Doe" autocomplete="name">
+        </label>
+
+        <label for="email-address">
+          Email Address
+          <input type="email" id="email-address" name="_replyto" required placeholder="jane@example.com" autocomplete="email">
+        </label>
+
+        <label for="subject">
+          Subject
+          <input type="text" id="subject" name="_subject" required placeholder="Quantitative Research / Collaboration">
+        </label>
+
+        <label for="message">
+          Message
+          <textarea id="message" name="message" required placeholder="Hi Srushti, I looked at your macro dashboard..." rows="6"></textarea>
+        </label>
+
+        <!-- Hidden honeypot input to trap automated spam bots -->
+        <input type="text" name="_gotcha" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+
+        <div>
+          <button type="submit" class="btn">SEND MESSAGE</button>
+        </div>
+      </form>
+    </section>
   </main>
 
   <footer id="site-footer"></footer>
+
   <script src="js/config.js"></script>
   <script src="js/layout.js"></script>
-  <script>
-    (function () {
-      var S = window.SITE || {};
-      var form = document.getElementById("contact-form");
-      var status = document.getElementById("form-status");
-
-      form.addEventListener("submit", function (e) {
-        e.preventDefault();
-        var data = new FormData(form);
-        if (data.get("_gotcha")) return;           // bot trap
-
-        if (S.formEndpoint) {                       // Formspree / similar
-          status.textContent = "Sending…";
-          fetch(S.formEndpoint, { method: "POST", body: data, headers: { Accept: "application/json" } })
-            .then(function (r) {
-              if (!r.ok) throw new Error(r.status);
-              form.reset(); status.textContent = "Thanks — message sent.";
-            })
-            .catch(function () { status.textContent = "Could not send. Please try again or email directly."; });
-        } else if (S.email) {                       // fallback: open mail app
-          var subject = encodeURIComponent("Message from " + data.get("name"));
-          var body = encodeURIComponent(data.get("message") + "\n\n— " + data.get("name") + " (" + data.get("email") + ")");
-          window.location.href = "mailto:" + S.email + "?subject=" + subject + "&body=" + body;
-        } else {
-          status.textContent = "Contact form is not connected yet (set formEndpoint or email in js/config.js).";
-        }
-      });
-    })();
-  </script>
 </body>
 </html>
