@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Visualising Surfaces | Academic Project 2024</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+    body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+    .w3-bar,h1,button {font-family: "Montserrat", sans-serif}
+    .fa-anchor,.fa-star ,.fa-spinner ,.fa-paperclip{font-size:200px}
+	.custom-button 
+	{
+	display: block;
+	text-align: center;
+	}
+	.custom-button button 
+	{
+	background-color: white;
+	color: green;
+	font-size: 1.5em; 
+	padding: 20px 40px;
+	margin-top: 20px;
+	}
+	.background-header 
+	{
+	background-image: url('https://wallpapertag.com/wallpaper/middle/2/0/f/677923-download-free-cool-math-backgrounds-2560x1600-for-1080p.jpg');
+	background-size: cover;
+	background-position: center; 
+	color: white; 
+}
+
+
+    </style>
+  </head>
+<body>
+<!-- Navbar -->
+<div class="w3-top">
+  <div class="w3-bar w3-blue w3-card w3-left-align w3-large">
+    <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-blue" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+    <a href="../projects.html" class="w3-bar-item w3-button w3-padding-large w3-white">← Projects</a>
+    <a href="https://drive.google.com/drive/folders/1XoNl7Rurx0KvCtprhDnc2VefZzVVs-NU?usp=drive_link" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Resource</a>
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Link 1</a>
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Link 2</a>
+	<a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Link 3</a>
+  </div>
+ <!-- Navbar on small screens -->
+  <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium w3-large">
+    <a href="../projects.html" class="w3-bar-item w3-button w3-padding-large">← Projects</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">Link 1</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">Link 2</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">Link 3</a>
+	</div>
+</div>
+<!-- Header -->
+<header class="w3-container w3-blue w3-center background-header" style="padding:128px 16px">
+  <h1 class="w3-margin w3-jumbo">Visualising Surfaces</h1>
+  <p class="w3-xlarge">Mathematics · Academic project, 2024</p>
+  <a href="https://www.geogebra.org/m/fb4pcbmu">
+  <button class="w3-button w3-black w3-padding-large w3-large w3-margin-top">Question 1.</button>
+  </a>
+  
+  <a href="https://www.geogebra.org/m/q3k4a4mh">
+  <button class="w3-button w3-black w3-padding-large w3-large w3-margin-top">Question 2.</button>
+  </a>
+  
+  <a href="https://www.geogebra.org/m/e23kfqr5">
+  <button class="w3-button w3-black w3-padding-large w3-large w3-margin-top">Question 3.</button>
+  </a>
+
+  
+  <a href="https://www.geogebra.org/m/nhjut3x2">
+  <button class="w3-button w3-black w3-padding-large w3-large w3-margin-top">Question 4.</button>
+  </a>
+  
+</header>
+<!-- First Grid -->
+<div class="w3-row-padding w3-padding-64 w3-container">
+  <div class="w3-content">
+    <div class="w3-twothird">
+      <h1>Tangent plane</h1>
+      <h5 class="w3-padding-32"> Intuitively, it seems clear that, in a plane, only one line can be tangent to a curve at a point. However, in three-dimensional space, many lines can be tangent to a given point. If these lines lie in the same plane, they determine the tangent plane at that point. A more intuitive way to think of a tangent plane is to assume the surface is smooth at that point (no corners). Then, a tangent line to the surface at that point in any direction does not have any abrupt changes in slope because the direction changes smoothly. Therefore, in a small-enough neighborhood around the point, a tangent plane touches the surface at that point.</h5>
+
+      <p class="w3-text-grey">For a tangent plane to a surface to exist at a point on that surface, it is sufficient for the function that defines the surface to be differentiable at that point. We define the term tangent plane here and then explore the idea intuitively.</p>
+    </div>
+    <div class="w3-third w3-center">
+      <i class="fa fa-star w3-padding-64 w3-text-blue"></i>
+    </div>
+  </div>
+</div>
+
+<!-- Second Grid -->
+<div class="w3-row-padding w3-light-grey w3-padding-64 w3-container">
+  <div class="w3-content">
+    <div class="w3-third w3-center">
+      <i class="fa fa-anchor w3-padding-64 w3-text-grey w3-margin-right"></i>
+    </div>
+
+    <div class="w3-twothird">
+      <h1>Linear approximation</h1>
+      <h5 class="w3-padding-32"> The tangent line can be used as an approximation to the function  f(x) for values of  x reasonably close to x=a.When working with a function of two variables, the tangent line is replaced by a tangent plane, but the approximation idea is much the same.</h5>
+	  <p class="w3-text-black">Try it yourself!</p>
+	  <a href="https://www.geogebra.org/3d" class="custom-button">
+	  <button class="w3-button w3-white w3-text-green w3-padding-large w3-xlarge w3-margin-top">Here</button>
+	  </a>
+      <p class="w3-text-grey">The simulation for the given questions can be done on Geogebra,cuemath or in python using pyplot library.</p>
+    </div>
+  </div>
+</div>
+<!-- Third Grid -->
+<div class="w3-row-padding w3-lavender w3-padding-64 w3-container">
+  <div class="w3-content">
+    <div class="w3-third w3-center">
+      <i class="fa fa-spinner w3-padding-64 w3-text-grey w3-margin-right"></i>
+    </div>
+
+    <div class="w3-twothird">
+      <h1>Level Curves</h1>
+      <h5 class="w3-padding-32"> The Given a function f(x, y)and a number c in the range of f, a level curve of a function of two variables for the value c is defined to be the set of points satisfying the equation f(x, y)=c.</h5>
+      <p class="w3-text-black"> The g(x, y)=√9−x^2−y^2,The range of function is closed on [0,3] considering c=2, c=g(x, y), c can take values 0,1,2.</p>
+  <a href="https://www.geogebra.org/m/nztxjr52">
+  <button class="w3-button w3-black w3-padding-large w3-large w3-margin-top">Level curve in 2D.</button>
+  </a>
+  <a href="https://www.geogebra.org/m/s2nqkzug">
+  <button class="w3-button w3-black w3-padding-large w3-large w3-margin-top">Level curve in 3D.</button>
+  </a>
+
+      <p class="w3-text-grey">The simulation for the given questions can be done on Geogebra,cuemath or in python using pyplot library.</p>
+    </div>
+  </div>
+</div>
+<!--Fourth Grid-->
+<div class="w3-row-padding w3-light-grey w3-padding-64 w3-container">
+  <div class="w3-content">
+    <div class="w3-third w3-center">
+      <i class="fa fa-paperclip w3-padding-64 w3-text-grey w3-margin-right"></i>
+    </div>
+    <div class="w3-twothird">
+      <h1>Revisiting Basics</h1>
+      <h5 class="w3-padding-32"> Transformations are common way of manipulating equations graphically. Adding or subtracting a constant to one variable shifts the graph along the respective axis.
+Multiplication by a constant can stretch or compress the graph along the axis, and multiplication by a negative constant may flip the graph over the axis.</h5>
+<p class="w3-text-grey">Consider equation of parabola is y=4x^2 if you add/substract 1 to x then it will move parabola left/right by 1 unit. If you add/substract 1 to y then it will move the parabola upwards/downwards by 1 unit. Multiplying y by constant will change the vertical scaling and multiplying x by constant will change the horizontal scaling.</p>
+	  <p class="w3-text-black">Try it yourself!</p>
+	  <a href="https://www.geogebra.org/3d" class="custom-button">
+	  <button class="w3-button w3-white w3-text-green w3-padding-large w3-xlarge w3-margin-top">Here</button>
+	  </a>
+	  <p class="w3-text-black">Live example of ellipsoid.</p>
+	  <a href="https://www.geogebra.org/m/tmm4xuj4">
+  <button class="w3-button w3-black w3-padding-large w3-large w3-margin-top">Ellipsoid.</button>
+  </a>
+  
+  <a href="https://www.geogebra.org/m/swpzhham">
+  <button class="w3-button w3-black w3-padding-large w3-large w3-margin-top">Scaling.</button>
+  </a>
+  
+  <a href="https://www.geogebra.org/m/sq82sym2">
+  <button class="w3-button w3-black w3-padding-large w3-large w3-margin-top">Inversion.</button>
+  </a>
+      <p class="w3-text-grey">The simulation for the given questions can be done on Geogebra,cuemath or in python using pyplot library.</p>
+    </div>
+  </div>
+</div>
+<div class="w3-container w3-black w3-center w3-opacity w3-padding-64">
+    <h1 class="w3-margin w3-xlarge">Quote of the day: live life</h1>
+</div>
+
+<footer class="w3-container w3-padding-64 w3-center w3-opacity"> 
+  <div class="w3-xlarge w3-padding-32">
+    <i class="fa fa-facebook-official w3-hover-opacity"></i>
+    <i class="fa fa-instagram w3-hover-opacity"></i>
+    <i class="fa fa-snapchat w3-hover-opacity"></i>
+    <i class="fa fa-pinterest-p w3-hover-opacity"></i>
+    <i class="fa fa-twitter w3-hover-opacity"></i>
+    <i class="fa fa-linkedin w3-hover-opacity"></i>
+ </div>
+ <a class="w3-button w3-round-xxlarge w3-black w3-margin-bottom" href="https://www.geogebra.org/calculator" target="_blank">Start now</a>
+ <p><a href="../projects.html">← Back to projects</a></p>
+ </footer>
+
+<script>
+function myFunction() {
+  var x = document.getElementById("navDemo");
+  if (x.className.indexOf("w3-show") == -1) {
+    x.className += " w3-show";
+  } else { 
+    x.className = x.className.replace(" w3-show", "");
+  }
+}
+</script>
+
+</body>
+</html>
