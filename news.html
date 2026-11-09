@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>News | Srushti Patil — Financial Engineering</title>
+  <meta name="description" content="Markets and macro headlines from central banks and business press.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;700&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="news.html">
+  <a class="skip" href="#main">Skip to content</a>
+  <header id="site-header"></header>
+
+  <main id="main" class="wrap">
+    <div class="page-title">
+      <h1>News</h1>
+      <p>Headlines gathered from public RSS feeds (list in <code>scripts/feeds.json</code>).
+         Each item links to the publisher; only title and a short excerpt are stored.</p>
+    </div>
+
+    <div class="toolbar">
+      <input class="search" id="q" type="search" placeholder="Search headlines…" aria-label="Search headlines">
+      <span class="stamp" id="stamp"></span>
+    </div>
+    <div class="toolbar" id="cats" role="group" aria-label="Category"></div>
+
+    <div id="count" class="eyebrow" style="margin-top:14px"></div>
+    <div class="news-list" id="list"></div>
+  </main>
+
+  <footer id="site-footer"></footer>
+  <script src="js/config.js"></script>
+  <script src="js/layout.js"></script>
+  <script src="js/news.js"></script>
+</body>
+</html>

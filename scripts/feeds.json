@@ -1,0 +1,8 @@
+[
+  {"name": "Federal Reserve",      "category": "Central banks", "url": "https://www.federalreserve.gov/feeds/press_all.xml"},
+  {"name": "ECB",                  "category": "Central banks", "url": "https://www.ecb.europa.eu/rss/press.html"},
+  {"name": "BBC Business",         "category": "Global",        "url": "https://feeds.bbci.co.uk/news/business/rss.xml"},
+  {"name": "The Hindu – Business", "category": "India",         "url": "https://www.thehindu.com/business/feeder/default.rss"},
+  {"name": "Mint – Markets",       "category": "India",         "url": "https://www.livemint.com/rss/markets"},
+  {"name": "Economic Times – Markets", "category": "India",     "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms"}
+]

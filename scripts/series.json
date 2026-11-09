@@ -1,0 +1,17 @@
+{
+  "fred": [
+    {"id": "FEDFUNDS",  "name": "Fed funds rate (effective)", "group": "US rates",               "units": "%", "freq": "M", "tile": true},
+    {"id": "DGS10",     "name": "10-year Treasury yield",     "group": "US rates",               "units": "%", "freq": "W", "tile": true},
+    {"id": "DGS2",      "name": "2-year Treasury yield",      "group": "US rates",               "units": "%", "freq": "W"},
+    {"id": "T10Y2Y",    "name": "10y–2y spread (curve slope)", "group": "US rates",              "units": "%", "freq": "W", "tile": true},
+    {"id": "CPIAUCSL",  "name": "CPI inflation, YoY",         "group": "US inflation & labour",  "units": "%", "freq": "M", "tile": true, "transform": "yoy"},
+    {"id": "UNRATE",    "name": "Unemployment rate",          "group": "US inflation & labour",  "units": "%", "freq": "M", "tile": true},
+    {"id": "DEXINUS",   "name": "USD/INR",                    "group": "FX, commodities & risk", "units": "INR per USD", "freq": "W", "tile": true},
+    {"id": "DCOILWTICO","name": "WTI crude oil",              "group": "FX, commodities & risk", "units": "USD/bbl", "freq": "W"},
+    {"id": "VIXCLS",    "name": "VIX volatility index",       "group": "FX, commodities & risk", "units": "index", "freq": "W"}
+  ],
+  "worldbank": [
+    {"id": "FP.CPI.TOTL.ZG",    "country": "IND", "name": "India CPI inflation (annual)", "group": "India (World Bank, annual)", "units": "%", "freq": "A", "tile": true},
+    {"id": "NY.GDP.MKTP.KD.ZG", "country": "IND", "name": "India real GDP growth",       "group": "India (World Bank, annual)", "units": "%", "freq": "A", "tile": true}
+  ]
+}

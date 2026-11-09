@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Macro Dashboard | Srushti Patil — Financial Engineering</title>
+  <meta name="description" content="Live macro indicators: rates, inflation, labour, FX and risk.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;700&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="dashboard.html">
+  <a class="skip" href="#main">Skip to content</a>
+  <header id="site-header"></header>
+
+  <main id="main" class="wrap">
+    <div class="page-title">
+      <h1>Macro Dashboard</h1>
+      <p>US rates, inflation, labour, FX and risk — plus India annual indicators.
+         Data is written to <code>data/macro.json</code> by <code>scripts/fetch_macro.py</code>.</p>
+    </div>
+
+    <div id="banner"></div>
+
+    <div class="toolbar" role="group" aria-label="Time range">
+      <button class="chip" data-range="1" aria-pressed="false">1Y</button>
+      <button class="chip" data-range="3" aria-pressed="false">3Y</button>
+      <button class="chip" data-range="5" aria-pressed="true">5Y</button>
+      <button class="chip" data-range="0" aria-pressed="false">MAX</button>
+      <span class="stamp" id="stamp"></span>
+    </div>
+
+    <div class="tiles" id="tiles"></div>
+    <div id="groups"></div>
+  </main>
+
+  <footer id="site-footer"></footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+  <script src="js/config.js"></script>
+  <script src="js/layout.js"></script>
+  <script src="js/dashboard.js"></script>
+</body>
+</html>

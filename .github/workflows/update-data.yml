@@ -1,0 +1,45 @@
+name: Update news + macro data
+
+on:
+  schedule:
+    - cron: "15 */3 * * *"     # every 3 hours (UTC)
+  workflow_dispatch:            # lets you press "Run workflow" manually
+
+permissions:
+  contents: write               # needed so the job can commit data/*.json
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch news
+        run: python3 scripts/fetch_news.py
+        continue-on-error: true     # a bad feed must not block the macro update
+
+      - name: Fetch macro data
+        env:
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+        run: python3 scripts/fetch_macro.py
+        continue-on-error: true
+
+      - name: Commit changes
+        run: |
+          git config user.name  "data-bot"
+          git config user.email "data-bot@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "Update data $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi

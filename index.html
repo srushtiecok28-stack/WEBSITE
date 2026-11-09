@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>About Me | Srushti Patil — Financial Engineering</title>
+  <meta name="description" content="Personal projects, market research and macro analysis in financial engineering.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;700&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="index.html">
+  <a class="skip" href="#main">Skip to content</a>
+  <header id="site-header"></header>
+
+  <main id="main">
+    <section class="hero">
+      <div class="hero-left">
+        <div class="hero-card">
+          <h1 id="card-title">Srushti Patil</h1>
+          <p class="eyebrow" id="card-tagline">MARKETS · MACRO · MODELS</p>
+          <div class="rule"></div>
+          <div class="card-foot" id="card-foot"></div>
+        </div>
+      </div>
+
+      <div class="hero-right">
+        <h2>WELCOME</h2>
+        <p class="lede">Explore My Projects &amp; Ideas</p>
+        <div class="cta">
+          <a class="btn" href="projects.html">VIEW PROJECTS</a>
+          <a class="btn ghost" href="contact.html">GET IN TOUCH</a>
+        </div>
+        <p class="body">
+          This is where I share personal projects, market research and analysis.
+          It is a place for ideas and for connecting with like-minded people —
+          explore the work, check the live macro dashboard and news feed, and
+          reach out if you would like to collaborate.
+        </p>
+      </div>
+    </section>
+
+    <div class="wrap section">
+      <h2>What's here</h2>
+      <div class="grid">
+        <a class="card" href="dashboard.html">
+          <span class="tag">Live data</span>
+          <h3>Macro Dashboard</h3>
+          <p>Rates, inflation, labour, FX and risk indicators, refreshed automatically.</p>
+          <span class="more">Open dashboard →</span>
+        </a>
+        <a class="card" href="news.html">
+          <span class="tag">Feed</span>
+          <h3>Markets &amp; Macro News</h3>
+          <p>Headlines from central banks and business press, filterable and searchable.</p>
+          <span class="more">Read the feed →</span>
+        </a>
+        <a class="card" href="projects.html">
+          <span class="tag">Research</span>
+          <h3>Projects &amp; Analysis</h3>
+          <p>Write-ups, models and notebooks.</p>
+          <span class="more">See projects →</span>
+        </a>
+      </div>
+    </div>
+  </main>
+
+  <footer id="site-footer"></footer>
+
+  <script src="js/config.js"></script>
+  <script src="js/layout.js"></script>
+  <script>
+    // Home-page card text comes from config.js
+    (function () {
+      var S = window.SITE || {};
+      document.getElementById("card-title").textContent = S.cardTitle || S.name;
+      document.getElementById("card-tagline").textContent = S.cardTagline || "";
+      var foot = document.getElementById("card-foot");
+      [["linkedin","in"],["github","gh"],["twitter","X"],["instagram","ig"]].forEach(function (p) {
+        if (S.social && S.social[p[0]]) {
+          var a = document.createElement("a");
+          a.className = "social"; a.href = S.social[p[0]]; a.target = "_blank";
+          a.rel = "noopener noreferrer"; a.textContent = p[1]; a.setAttribute("aria-label", p[0]);
+          foot.appendChild(a);
+        }
+      });
+      if (!foot.children.length) foot.remove();   // no social links configured → no empty white bar
+    })();
+  </script>
+</body>
+</html>
