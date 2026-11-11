@@ -1,7 +1,65 @@
 {
- "generated": "2026-11-10T21:47:16Z",
- "errors": [],
+ "generated": "2026-11-11T01:09:57Z",
+ "errors": [
+  "Federal Reserve: HTTPError"
+ ],
  "items": [
+  {
+   "title": "Raja Venkatraman recommends three stocks for 11 November",
+   "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-11-november-11794313913047.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-11T00:30:58Z",
+   "summary": "Market expert Raja Venkatraman shares his top stock picks for 11 November. Here’s his technical outlook and trade strategy.",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "Anthropic targets $90 billion IPO at $1.4 trillion valuation",
+   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-targets-90-billion-ipo-at-1-4-trillion-valuation/articleshow/135721872.cms",
+   "source": "Economic Times – Markets",
+   "category": "India",
+   "published": "2026-11-11T00:27:03Z",
+   "summary": "Anthropic PBC is preparing for an initial public offering aiming for a fully diluted valuation of $1.4 trillion. The company plans to raise up to $90.4 billion, including a private placement with major investors. It has…",
+   "tags": []
+  },
+  {
+   "title": "Robot vessels take on the dangerous work of mine hunting",
+   "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-11T00:19:13Z",
+   "summary": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+   "tags": []
+  },
+  {
+   "title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
+   "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-11T00:16:44Z",
+   "summary": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
+   "tags": []
+  },
+  {
+   "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
+   "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-11T00:02:07Z",
+   "summary": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+   "tags": []
+  },
+  {
+   "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+   "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-10T22:52:15Z",
+   "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+   "tags": []
+  },
   {
    "title": "Law on 'holiday hunger' passed by Stormont assembly",
    "link": "https://www.bbc.co.uk/news/articles/cmewewgvrwpqo?at_medium=RSS&at_campaign=rss",
@@ -21,7 +79,7 @@
    "tags": []
   },
   {
-   "title": "US stocks: US market ends lower as hot inflation data, Fed comments heighten rate worries",
+   "title": "US stocks: US market falls as hot inflation, hawkish Fed fuel rate-hike fears",
    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-ends-lower-as-hot-inflation-data-fed-comments-heighten-rate-worries/articleshow/135719918.cms",
    "source": "Economic Times – Markets",
    "category": "India",
@@ -33,15 +91,6 @@
     "Equities",
     "Fed"
    ]
-  },
-  {
-   "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
-   "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Global",
-   "published": "2026-11-10T21:06:04Z",
-   "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-   "tags": []
   },
   {
    "title": "Defaults Rattle Brazil’s Shadow Banks, Spark Regulatory Scrutiny",
@@ -406,7 +455,7 @@
    "tags": []
   },
   {
-   "title": "US market ends lower as hot inflation data, Fed comments heighten rate worries: Stock Market Live Updates",
+   "title": "US market ends lower as hot inflation data, Fed comments heighten rate worries: Stock Market Highlights",
    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-anthropic-ipo-nvidia-intel-marvell-tech-ai-chip-stocks-inflation-fed-rate-hike-treasury-bond-yield-news-10th-november-2026/liveblog/135712173.cms",
    "source": "Economic Times – Markets",
    "category": "India",
@@ -579,6 +628,15 @@
    "category": "India",
    "published": "2026-11-10T10:37:19Z",
    "summary": "Retail investors, who had long maintained confidence in the company's fundamentals, have gradually trimmed their holdings over the past year. At the end of Q2, retail shareholders collectively held a 26.2% stake in the…",
+   "tags": []
+  },
+  {
+   "title": "CAG flagged underuse of PSU insurers’ own TPA; four years on, accountability remains elusive",
+   "link": "https://www.thehindu.com/business/Industry/cag-flagged-underuse-of-psu-insurers-own-tpa-four-years-on-accountability-remains-elusive/article71685353.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-10T10:29:42Z",
+   "summary": "RTI replies and public disclosures offer little clarity on whether business allocation increased or what action followed the audit recommendations",
    "tags": []
   },
   {
@@ -3794,15 +3852,6 @@
    "category": "Global",
    "published": "2026-10-21T23:12:06Z",
    "summary": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating.",
-   "tags": []
-  },
-  {
-   "title": "The tech helping crack decades-old cold cases",
-   "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Global",
-   "published": "2026-10-20T23:13:24Z",
-   "summary": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
    "tags": []
   }
  ]
