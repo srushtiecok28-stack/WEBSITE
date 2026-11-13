@@ -1,7 +1,65 @@
 {
- "generated": "2026-11-12T21:52:58Z",
+ "generated": "2026-11-13T01:15:50Z",
  "errors": [],
  "items": [
+  {
+   "title": "Global Market Today: Asian stocks gain after Nvidia shakeup, oil steady",
+   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-gain-after-nvidia-shakeup-oil-steady/articleshow/135785602.cms",
+   "source": "Economic Times – Markets",
+   "category": "India",
+   "published": "2026-11-13T00:45:37Z",
+   "summary": "The MSCI Asia Pacific Index rose 0.3%, led by gains in South Korea. US equity futures also advanced, with Nasdaq 100 contracts up 0.6% and those for the S&P 500 gaining 0.4% after both underlying benchmarks fell…",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+   "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-13T00:13:35Z",
+   "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+   "tags": []
+  },
+  {
+   "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+   "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-12T23:34:05Z",
+   "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+   "tags": []
+  },
+  {
+   "title": "Some under-25s should get fewer benefits, Milburn review to say",
+   "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-12T22:51:18Z",
+   "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+   "tags": []
+  },
+  {
+   "title": "GPU Financing Filters Further Into ABS With Planned Newton Deal",
+   "link": "https://www.livemint.com/market/gpu-financing-filters-further-into-abs-with-planned-newton-deal-11794523600580.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-12T22:46:40Z",
+   "summary": "Newton Commercial Finance, a joint venture between Apple Bank and Eagle Point Credit Management, is in early talks with investors about a potential $180 million bond offering partly backed by artificial intelligence…",
+   "tags": []
+  },
+  {
+   "title": "Yen Falls to Cusp of 160 Level, Fanning Intervention Risk",
+   "link": "https://www.livemint.com/market/yen-falls-to-cusp-of-160-level-fanning-intervention-risk-11794521542082.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-12T22:12:21Z",
+   "summary": "The yen slid to the verge of 160 to the dollar, a key threshold that’s raising the specter that policymakers in Tokyo will swoop in again to defend the currency.",
+   "tags": [
+    "FX"
+   ]
+  },
   {
    "title": "The Yen Is Becoming Too Hard for Some Investors to Trade",
    "link": "https://www.livemint.com/market/the-yen-is-becoming-too-hard-for-some-investors-to-trade-11794520064240.html",
@@ -43,6 +101,15 @@
    "tags": [
     "Equities"
    ]
+  },
+  {
+   "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+   "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-12T20:25:29Z",
+   "summary": "Services including Teams, Outlook and Microsoft's AI software Copilot have been affected by \"connectivity problems\".",
+   "tags": []
   },
   {
    "title": "Jensen Huang has resigned, what's next for Nvidia?",
@@ -133,15 +200,6 @@
    "tags": [
     "Fed"
    ]
-  },
-  {
-   "title": "Some under-25s should get fewer benefits, Milburn review to say",
-   "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Global",
-   "published": "2026-11-12T17:32:14Z",
-   "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
-   "tags": []
   },
   {
    "title": "Kia, suppliers plan $2 billion investment in second plant in Andhra Pradesh, targets 2030 production kickoff",
@@ -4005,66 +4063,6 @@
    "tags": [
     "Inflation",
     "Oil",
-    "Equities"
-   ]
-  },
-  {
-   "title": "Strait of Hormuz LNG traffic hits highest in October since Iran war began",
-   "link": "https://www.thehindu.com/business/Economy/strait-of-hormuz-lng-traffic-hits-highest-in-october-since-iran-war-began/article71684981.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-10T04:48:53Z",
-   "summary": "October exports ‌were ⁠the highest since February when the war ⁠started and were up from September’s corresponding tally of 23 vessels exiting the strait",
-   "tags": []
-  },
-  {
-   "title": "Upcoming IPOs: SEBI clears 8 issues, including Mahanadi Coalfields, Veritas Finance and Sagar Defence; details here",
-   "link": "https://www.livemint.com/market/stock-market-news/upcoming-ipos-sebi-clears-8-issues-including-mahanadi-coalfields-veritas-finance-and-sagar-defence-details-here-11794281756897.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-10T04:26:46Z",
-   "summary": "India’s IPO pipeline is gaining pace, with eight companies—including Mahanadi Coalfields, Veritas Finance, Razorpay and MakeMyTrip’s Indian subsidiary—moving closer to public offerings. Their proposed issues range from…",
-   "tags": []
-  },
-  {
-   "title": "Anthropic plans IPO live stream with Amodei, JPMorgan CEO Dimon",
-   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-plans-ipo-live-stream-with-amodei-jpmorgan-ceo-dimon/articleshow/135699137.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-10T04:24:56Z",
-   "summary": "Anthropic PBC is preparing for a live-streamed event featuring CEO Dario Amodei and JPMorgan Chase CEO Jamie Dimon. This event is aimed at marketing their upcoming initial public offering, which might break records. The…",
-   "tags": []
-  },
-  {
-   "title": "US ETFs to Buy for Samvat 2083: Samco recommends 2 ETFs with potential upside of up to 60% for Indian investors",
-   "link": "https://www.livemint.com/market/stock-market-news/us-etfs-to-buy-for-samvat-2083-samco-recommends-2-etfs-with-potential-upside-of-up-to-60-for-indian-investors-11794283267027.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-10T04:17:01Z",
-   "summary": "Samco Wealth recommends US-listed energy ETF XLE and healthcare ETF XLV as long-term hedges against oil-price volatility and rupee depreciation. It sees potential upside of 47% and 60%, respectively, and suggests…",
-   "tags": [
-    "FX"
-   ]
-  },
-  {
-   "title": "HUL dividend 2026: Tomorrow is the last day to buy | Check payout amount, record date, history, yield and returns",
-   "link": "https://www.livemint.com/market/stock-market-news/hul-dividend-2026-tomorrow-is-the-last-day-to-buy-check-payout-amount-record-date-history-yield-and-returns-11794278924006.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-10T03:45:08Z",
-   "summary": "HUL dividend 2026: HUL announced the interim dividend alongside its September-quarter results on October 28. The dividend amounts to 1,900% of the face value of ₹1 per equity share.",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Californians reject wealth tax for billionaires",
-   "link": "https://www.bbc.co.uk/news/articles/cq398em3032wo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Global",
-   "published": "2026-11-10T03:34:46Z",
-   "summary": "Proposition 40 targeted Californian billionaires with a 5% tax on their total wealth, including assets such as shares as well as income.",
-   "tags": [
     "Equities"
    ]
   }
