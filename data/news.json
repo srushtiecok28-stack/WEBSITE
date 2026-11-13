@@ -1,9 +1,217 @@
 {
- "generated": "2026-11-13T15:55:07Z",
+ "generated": "2026-11-13T18:58:44Z",
  "errors": [],
  "items": [
   {
-   "title": "Bessent blames Lutnick's Commerce Department for failing to block Megaspeed",
+   "title": "Oil prices set for second straight weekly decline on growing signs of supply surplus",
+   "link": "https://www.livemint.com/market/oil-prices-set-for-second-straight-weekly-decline-on-growing-signs-of-supply-surplus-11794595284142.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-13T18:41:23Z",
+   "summary": "GLOBAL-OIL:Oil prices set for second straight weekly decline on growing signs of supply surplus",
+   "tags": [
+    "Oil"
+   ]
+  },
+  {
+   "title": "Gold Edges Up, Still On Track for Worst Weekly Slump Since June",
+   "link": "https://www.livemint.com/market/gold-edges-up-still-on-track-for-worst-weekly-slump-since-june-11794595223804.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-13T18:40:23Z",
+   "summary": "Gold edged higher at the end of a downbeat week that saw the metal drop to its lowest point in more than a year.",
+   "tags": [
+    "Gold"
+   ]
+  },
+  {
+   "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+   "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-13T18:36:57Z",
+   "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+   "tags": []
+  },
+  {
+   "title": "YES Bank files SC review plea over AT-1 bonds: What does it mean for investors after stock's 15% rebound?",
+   "link": "https://www.livemint.com/market/stock-market-news/yes-bank-files-sc-review-plea-over-at-1-bonds-what-does-it-mean-for-investors-after-stocks-15-rebound-11794591968232.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-13T18:05:31Z",
+   "summary": "YES Bank has asked the Supreme Court to review its October 15 ruling against the write-down of ₹8,415 crore in AT-1 bonds. The move follows a bondholders’ trustee’s contempt petition seeking restoration of the bonds.…",
+   "tags": []
+  },
+  {
+   "title": "Are board games making a comeback this Christmas?",
+   "link": "https://www.bbc.co.uk/news/videos/ckp80l667rdjo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-13T18:00:40Z",
+   "summary": "Are board games making a comeback this Christmas?",
+   "tags": []
+  },
+  {
+   "title": "Tata feud: Venu Srinivasan, Vijay Singh hit back at Khambata, accuse him of ignoring governance failures",
+   "link": "https://www.thehindu.com/business/tata-feud-venu-srinivasan-vijay-singh-hit-back-at-khambata-accuse-him-of-ignoring-governance-failures/article71699470.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-13T17:40:48Z",
+   "summary": "In a five-page letter, the two Vice-Chairmen of Tata Trusts said opposition to listing Tata Sons should not be driven by a wish to keep control in the Trusts’ leadership’s hands",
+   "tags": []
+  },
+  {
+   "title": "Mittal says India must hold satellite ‘kill switch’, warns against dependence on single provider",
+   "link": "https://www.thehindu.com/business/mittal-says-india-must-hold-satellite-kill-switch-warns-against-dependence-on-single-provider/article71699366.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-13T17:38:17Z",
+   "summary": "Bharti Enterprises chairman Sunil Bharti Mittal says India should not rely on one country or company for satellite communications, as OneWeb, Jio and Starlink await operational clearances",
+   "tags": []
+  },
+  {
+   "title": "Stock markets snap three-day rally on rate hike fears; Sensex drops 318 points",
+   "link": "https://www.thehindu.com/business/stock-markets-snap-three-day-rally-on-rate-hike-fears-sensex-drops-318-points/article71699357.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-13T17:34:21Z",
+   "summary": "Retail inflation surged to 6.09% in October, breaching the RBI’s upper tolerance limit for the first time in two years and prompting expectations of a rate hike next month",
+   "tags": [
+    "Inflation",
+    "Rates",
+    "Equities",
+    "RBI"
+   ]
+  },
+  {
+   "title": "Microsoft Outage LIVE: Microsoft apologises for outage, says it was not linked to cyber or AI",
+   "link": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-live-updates-november-13-2026-steps-to-fix-outlook-and-other-apps-ongoing/article71696624.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-13T17:02:44Z",
+   "summary": "Microsoft services are beginning to come back online after a massive global outage left millions of users without access for nearly 18 hours",
+   "tags": []
+  },
+  {
+   "title": "Oil India on track for 4 MMT crude oil production this fiscal, officials state",
+   "link": "https://www.thehindu.com/business/Industry/oil-india-on-track-for-4-mmt-crude-oil-production-this-fiscal-officials-state/article71699134.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-13T16:51:54Z",
+   "summary": "Oil India further stated that it was on track for scaling their capex target of ₹7,500 crore.",
+   "tags": [
+    "Oil"
+   ]
+  },
+  {
+   "title": "Microsoft outage hits businesses worldwide; India feels impact",
+   "link": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-hits-businesses-worldwide-india-feels-impact/article71698919.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-13T16:44:55Z",
+   "summary": "Disruption to Microsoft’s cloud-based email service affects business operations and airline customer support in India; public services in several countries also report problems",
+   "tags": []
+  },
+  {
+   "title": "What are people emergency stockpiling?",
+   "link": "https://www.bbc.co.uk/news/videos/c6zxvg79rr9yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-13T16:31:22Z",
+   "summary": "From cider to candy canes: What people are emergency stockpiling",
+   "tags": []
+  },
+  {
+   "title": "Airtel Payments Bank IPO in pipeline? Bharti Airtel payments business eyes D-Street debut, says report",
+   "link": "https://www.livemint.com/market/ipo/airtel-payments-bank-ipo-in-pipeline-bharti-airtel-payments-business-eyes-d-street-debut-says-report-11794586839337.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-13T16:28:34Z",
+   "summary": "Airtel Payments Bank could become a much larger financial services business and may pursue an IPO in three to four years, Sunil Bharti Mittal said. The bank has nearly 100 million users and is targeting ₹10,000 crore in…",
+   "tags": []
+  },
+  {
+   "title": "Anthropic IPO share orders from China are said to be rebuffed",
+   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed/articleshow/135809948.cms",
+   "source": "Economic Times – Markets",
+   "category": "India",
+   "published": "2026-11-13T16:28:14Z",
+   "summary": "Investors based in mainland China and Hong Kong are excluded from placing orders in Anthropic's IPO. This decision reflects the strategic sensitivities between Washington and Beijing regarding technology advancements.…",
+   "tags": []
+  },
+  {
+   "title": "Upcoming IPO: Razorpay gets SEBI nod for IPO launch: Top things to know about the issue",
+   "link": "https://www.livemint.com/market/stock-market-news/upcoming-ipo-razorpay-gets-sebi-nod-for-ipo-launch-top-things-to-know-about-the-issue-11794586427364.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-13T16:19:54Z",
+   "summary": "SEBI has approved Razorpay’s IPO proposal, five months after the fintech confidentially filed draft documents. The company reportedly plans to raise $600 million, as it broadens beyond online payments into payroll,…",
+   "tags": []
+  },
+  {
+   "title": "Copper prices slid to near four-month low amid fears of hike in U.S. interest rates, lower AI demand",
+   "link": "https://www.thehindu.com/business/Industry/copper-prices-slid-to-near-four-month-low-amid-fears-of-hike-in-us-interest-rates-lower-demand-especially-from-ai/article71698830.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-13T16:16:57Z",
+   "summary": "According to the industry body FIMI, prices are expected to remain volatile in the short-term though they may elevate in the long-term fuelled by increased demand.",
+   "tags": [
+    "Rates"
+   ]
+  },
+  {
+   "title": "KPMG sets up sports tech hub to unlock India’s $40-bn sports opportunity by 2030",
+   "link": "https://www.thehindu.com/business/kpmg-sets-up-sports-tech-hub-to-unlock-indias-40-bn-sports-opportunity-by-2030/article71698350.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-13T16:16:14Z",
+   "summary": "The firm is setting up a Sports Technology Hub to accelerate digital transformation across India's sports ecosystem. The initiative brings together AI, advanced analytics, computer vision, and emerging digital…",
+   "tags": []
+  },
+  {
+   "title": "BEML share price falls after hitting 52-week high: ICICI Direct sees 39% upside in defence PSU stock—should you buy?",
+   "link": "https://www.livemint.com/market/stock-market-news/beml-share-price-falls-after-hitting-52-week-high-icici-direct-sees-39-upside-in-the-defence-psu-stock-should-you-buy-11794580770478.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-13T16:11:32Z",
+   "summary": "BEML shares fell 1.23% on Friday but gained 7.64% for the week. ICICI Securities maintained a Buy rating and set a target price of ₹2,765, citing a strong rail and metro order pipeline and growth prospects. BEML’s…",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "ABB India Q3 profit rises 10% to ₹440 crore; orders hit record ₹4,733 crore",
+   "link": "https://www.thehindu.com/business/Industry/abb-india-q3-profit-rises-10-to-440-crore-orders-hit-record-4733-crore/article71698661.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-13T16:02:56Z",
+   "summary": "India’s structural growth drivers in industrialisation, electrification, digitalisation and the energy transition continue to support attractive growth opportunities for ABB India, Country Managing Director, Sanjeev…",
+   "tags": []
+  },
+  {
+   "title": "India's exports up 29.9% in October; trade deficit narrows to $20.09 billion",
+   "link": "https://www.thehindu.com/business/Economy/india-exports-october-26-trade-deficit-numbers/article71697532.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-13T15:53:22Z",
+   "summary": "The growth in India’s merchandise exports in October, the fastest in five years and faster than import growth, indicates that volumes of exports are growing along with prices",
+   "tags": []
+  },
+  {
+   "title": "BofA adds January Fed hike to forecast, says quarterly pace no longer enough",
+   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bofa-adds-january-fed-hike-to-forecast-says-quarterly-pace-no-longer-enough/articleshow/135808910.cms",
+   "source": "Economic Times – Markets",
+   "category": "India",
+   "published": "2026-11-13T15:45:53Z",
+   "summary": "BofA Global Research anticipates that the Federal Reserve will implement a rate hike in January 2027. This adjustment follows the unexpectedly high Consumer Price Index report for October. Expectations of a…",
+   "tags": [
+    "Inflation",
+    "Rates",
+    "Fed"
+   ]
+  },
+  {
+   "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
    "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "category": "Global",
@@ -23,26 +231,6 @@
    ]
   },
   {
-   "title": "KPMG sets up sports tech hub to unlock India’s $40-bn sports opportunity by 2030",
-   "link": "https://www.thehindu.com/business/kpmg-sets-up-sports-tech-hub-to-unlock-indias-40-bn-sports-opportunity-by-2030/article71698350.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-13T15:10:54Z",
-   "summary": "The firm is setting up a Sports Technology Hub to accelerate digital transformation across India's sports ecosystem. The initiative brings together AI, advanced analytics, computer vision, and emerging digital…",
-   "tags": []
-  },
-  {
-   "title": "Copper prices slid to near four-month low amid fears of hike in U.S. interest rates, lower demand, especially from AI",
-   "link": "https://www.thehindu.com/business/Industry/copper-prices-slid-to-near-four-month-low-amid-fears-of-hike-in-us-interest-rates-lower-demand-especially-from-ai/article71698830.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-13T14:58:07Z",
-   "summary": "According to the industry body FIMI, prices are expected to remain volatile in the short-term though they may elevate in the long-term fuelled by increased demand.",
-   "tags": [
-    "Rates"
-   ]
-  },
-  {
    "title": "Tata Sons rejects Noel's request for audio-video recording of September 17 boardmeet",
    "link": "https://www.thehindu.com/business/tata-sons-rejects-noels-request-for-audio-video-recording-of-september-17-boardmeet/article71698410.ece",
    "source": "The Hindu – Business",
@@ -52,13 +240,14 @@
    "tags": []
   },
   {
-   "title": "US stocks: US market opens higher after soft producer prices data",
+   "title": "US stocks: US stocks reverse early gains as Nvidia turmoil hits tech sector",
    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-after-soft-producer-prices-data/articleshow/135807296.cms",
    "source": "Economic Times – Markets",
    "category": "India",
    "published": "2026-11-13T14:45:46Z",
-   "summary": "On Friday morning, US stock indexes surged, opening on a high note after October's producer prices data came in softer than expected.",
+   "summary": "US stocks fell as Nvidia’s leadership turmoil triggered a broad technology selloff, sending the Nasdaq down 1.42% and the S&P 500 nearly 1% lower. Softer-than-expected producer inflation offered little relief as…",
    "tags": [
+    "Inflation",
     "Equities"
    ]
   },
@@ -72,24 +261,6 @@
    "tags": [
     "Inflation"
    ]
-  },
-  {
-   "title": "ABB India Q3 profit rises 10% to ₹440 crore; orders hit record ₹4,733 crore",
-   "link": "https://www.thehindu.com/business/Industry/abb-india-q3-profit-rises-10-to-440-crore-orders-hit-record-4733-crore/article71698661.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-13T14:43:19Z",
-   "summary": "India’s structural growth drivers in industrialisation, electrification, digitalisation and the energy transition continue to support attractive growth opportunities for ABB India, Country Managing Director, Sanjeev…",
-   "tags": []
-  },
-  {
-   "title": "Microsoft Outage LIVE: Microsoft begins restoring Outlook, Teams and other services after global outage",
-   "link": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-live-updates-november-13-2026-steps-to-fix-outlook-and-other-apps-ongoing/article71696624.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-13T14:39:22Z",
-   "summary": "Microsoft services are beginning to come back online after a massive global outage left millions of users without access for nearly 18 hours",
-   "tags": []
   },
   {
    "title": "US Treasury chief says Fed should not hike rates over energy shock tied to Iran war",
@@ -110,15 +281,6 @@
    "category": "India",
    "published": "2026-11-13T14:29:30Z",
    "summary": "“The Indian automobile industry continues to witness healthy demand momentum,” said Rajesh Menon, Director General, SIAM.",
-   "tags": []
-  },
-  {
-   "title": "Why is the Microsoft outage lasting so long?",
-   "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Global",
-   "published": "2026-11-13T14:21:26Z",
-   "summary": "Microsoft says it is seeing \"improvements\" following a global outage but efforts to fully resume services are ongoing.",
    "tags": []
   },
   {
@@ -190,7 +352,7 @@
    ]
   },
   {
-   "title": "Nasdaq, S&P 500 tumble as Nvidia upheaval roils AI trade: Stock Market Live Updates",
+   "title": "Nasdaq, S&P 500 tumble as Nvidia overhang weighs on tech stocks: Stock Market Live Updates",
    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-microsoft-cerebras-amd-micron-treasury-yield-news-13th-november-2026/liveblog/135804970.cms",
    "source": "Economic Times – Markets",
    "category": "India",
@@ -359,15 +521,6 @@
    "category": "India",
    "published": "2026-11-13T11:31:30Z",
    "summary": "Jagatjit Industries Ltd has reported a net loss of Rs 3.96 crore for the second quarter of FY27, significantly improving from Rs 27.91 crore lost during the same period last year. Total income surged to Rs 195.43 crore,…",
-   "tags": []
-  },
-  {
-   "title": "India's exports up 29.9% in October; trade deficit narrows to $20.09 billion",
-   "link": "https://www.thehindu.com/business/Economy/india-exports-october-26-trade-deficit-numbers/article71697532.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-13T11:23:37Z",
-   "summary": "The country's exports — including merchandise and services — stood at $69.27 billion in the same month last year",
    "tags": []
   },
   {
@@ -3908,162 +4061,6 @@
    "tags": [
     "FX"
    ]
-  },
-  {
-   "title": "IBM to end U.S. visa, green card sponsorship for most roles in its Consulting arm",
-   "link": "https://www.thehindu.com/business/Industry/ibm-to-end-us-visa-green-card-sponsorship-for-most-roles-in-its-consulting-arm/article71688291.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-11T05:05:15Z",
-   "summary": "Workers impacted by the move can work with IBM ‌outside the U.S. or leave by the ​end of the year, a report said",
-   "tags": []
-  },
-  {
-   "title": "Ashoka Buildcon shares soar 14% after new NHAI order win, still down 43% in 1 year - check contract details, performance",
-   "link": "https://www.livemint.com/market/stock-market-news/ashoka-buildcon-shares-soar-14-after-new-nhai-order-win-still-down-43-in-1-year-check-contract-details-performance-11794372853320.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-11T05:02:59Z",
-   "summary": "Ashoka Buildcon shares rose as much as 14% after the company received an ₹865.90 crore NHAI contract to complete a 26.6-km expressway section in Gujarat. The award boosted sentiment despite Q2 FY27 revenue falling…",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Cochin Shipyard shares crash 8%: Defence PSU stock Q2 profit drops 50% but declares ₹3 dividend- Still a stock to buy?",
-   "link": "https://www.livemint.com/market/stock-market-news/cochin-shipyard-shares-crash-8-defence-psu-stock-q2-profit-drops-50-but-declares-rs-3-dividend-still-a-stock-to-buy-11794370626964.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-11T04:38:24Z",
-   "summary": "Cochin Shipyard shares fell 8% after Q2 FY27 net profit nearly halved to ₹53.77 crore, despite revenue rising 11.7%. Higher expenses and a loss in shipbuilding weighed on results. The company announced a ₹3 interim…",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Positive Breakout: These 5 stocks rose above their 200 DMAs",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-5-stocks-rose-above-their-200-dmas/slideshow/135725922.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-11T04:34:09Z",
-   "summary": "Six Nifty 500 stocks gained over 2% and crossed above their respective 200-day moving averages on November 9, according to StockEdge data. A move above the 200-DMA is widely seen as a bullish technical signal,…",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Why Kalyan Jewellers shares surged 10%, hit 52-week high after Diwali, Dhanteras; up 26% in a week | Buy, sell or hold?",
-   "link": "https://www.livemint.com/market/stock-market-news/why-kalyan-jewellers-shares-surged-10-hit-52-week-high-after-diwali-dhanteras-up-26-in-a-week-buy-sell-or-hold-11794369395918.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-11T04:16:51Z",
-   "summary": "Kalyan Jewellers shares rose 10% to a 52-week high after the company reported Q2 FY27 net profit growth of 64% to ₹427 crore and revenue growth of 32% to ₹10,323 crore. Brokerages maintained Buy ratings, while the…",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "TD Power shares up 350% up in 3 years, jumps 5% today as Sensex, Nifty jump massively | More upside? target, stop loss",
-   "link": "https://www.livemint.com/market/stock-market-news/td-power-shares-up-350-up-in-3-years-jumps-5-today-as-sensex-nifty-jump-massively-more-upside-target-stop-loss-11794369346196.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-11T04:15:19Z",
-   "summary": "TD Power share price opened at ₹580.35 per share on NSE today, as compared to previous close of ₹571.65 on Monday and touched an intraday high of ₹604 on November 11.",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "OpenAI posts steep losses even as quarterly revenue rises to $10 billion: Report",
-   "link": "https://www.thehindu.com/sci-tech/technology/openai-posts-steep-losses-even-as-quarterly-revenue-rises-to-10-billion-report/article71688191.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-11T04:10:17Z",
-   "summary": "OpenAI told investors ‌its adjusted operating margin improved to -109% from -150% in ‌the prior quarter,",
-   "tags": []
-  },
-  {
-   "title": "Stock Market Today: Massive jump in Sensex, Nifty! ₹4.5 lakh cr wealth added in a few mins - Reasons for bullish party",
-   "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-massive-jump-in-sensex-nifty-rs-4-5-lakh-cr-wealth-added-in-a-few-mins-reasons-for-bullish-party-11794369074218.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-11T04:03:17Z",
-   "summary": "The Sensex and Nifty climbed more than 1% in Wednesday trading, led by gains in major stocks including IndiGo, M&amp;M and HDFC Bank. Mid- and small-cap shares also advanced as easing oil prices and improved investor…",
-   "tags": [
-    "Oil",
-    "Equities"
-   ]
-  },
-  {
-   "title": "Punjab National Bank among 7 stocks showing White Marubozu pattern",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/news/punjab-national-bank-among-7-stocks-showing-white-marubozu-pattern/slideshow/135725226.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-11T03:53:27Z",
-   "summary": "Seven Nifty500 stocks featured in StockEdge’s White Marubozu bullish scanner on November 9, indicating strong upward price momentum during the session. Banking stocks dominated the list, with gains ranging from 4% to…",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Union Bank of India among 5 stocks closing above VWAP",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/news/union-bank-of-india-among-5-stocks-closing-above-vwap/slideshow/135725070.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-11T03:43:28Z",
-   "summary": "Five Nifty500 stocks closed more than 2% above their respective volume-weighted average prices on November 9, according to StockEdge’s technical scan, indicating positive price action during the session.",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Bharat Dynamics among 5 stocks showing RSI trending up",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-dynamics-among-5-stocks-showing-rsi-trending-up/slideshow/135724716.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-11T03:31:18Z",
-   "summary": "Five Nifty500 stocks that gained over 3% on November 9 featured in StockEdge’s RSI Trending Up scan, with their Relative Strength Index (RSI) crossing above 50 from below, signalling strengthening price momentum.",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Sensex, Nifty hit eight-month high as foreign investors return",
-   "link": "https://www.livemint.com/market/stock-market-news/indian-stocks-poised-for-higher-open-on-softer-crude-robust-foreign-buying-11794366485802.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-11T03:10:35Z",
-   "summary": "The Nifty 50 rose 1.25% to 25,358 and the Sensex gained 1.47% to 82,301.1, as of 10:07 a.m. IST . They hit their highest levels since February 27.",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Kotak Bank Share Price Highlights: Kotak Bank Stock Price History",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-share-price-today-live-updates-11-nov-2026/liveblog/135724188.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-11T03:10:06Z",
-   "summary": "",
-   "tags": []
-  },
-  {
-   "title": "ONGC dividend 2026: Last day to buy today | Check dividend payout, record date, history, yield and returns",
-   "link": "https://www.livemint.com/market/stock-market-news/ongc-dividend-2026-last-day-to-buy-today-check-dividend-payout-record-date-history-yield-and-returns-11794363759514.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-11T03:07:01Z",
-   "summary": "ONGC dividend 2026: ONGC announced the interim dividend after its board meeting on November 5, alongside its September-quarter results for FY27. The dividend represents a payout of 160% on the face value of ₹5 per…",
-   "tags": []
-  },
-  {
-   "title": "M&M Share Price Highlights: M&M Stock Price History",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-share-price-today-live-11-nov-2026/liveblog/135723505.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-11T02:47:18Z",
-   "summary": "",
-   "tags": []
   }
  ]
 }
