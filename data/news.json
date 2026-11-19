@@ -1,15 +1,82 @@
 {
- "generated": "2026-11-19T19:06:22Z",
+ "generated": "2026-11-19T21:57:30Z",
  "errors": [],
  "items": [
   {
-   "title": "Anthropic soars in Wall Street debut despite AI jitters",
+   "title": "Wall Street ends sharply lower as Anthropic’s debut fails to revive AI fervour",
+   "link": "https://www.thehindu.com/business/markets/wall-street-ends-sharply-lower-as-anthropics-debut-fails-to-revive-ai-fervour/article71721814.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-19T21:36:10Z",
+   "summary": "All three major U.S. stock indexes ended the session ⁠sharply lower, with the benchmark S&P 500 logging its fifth straight session of losses",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "Retail Investors Dive Into Both Sides of the Anthropic Trade",
+   "link": "https://www.livemint.com/market/retail-investors-dive-into-both-sides-of-the-anthropic-trade-11795123326586.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-19T21:22:06Z",
+   "summary": "Retail traders rushed to buy — and sell — Anthropic PBC shares in one of the busiest market debuts on record Thursday.",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "Anthropic shares close 17% higher on first day of trading",
    "link": "https://www.thehindu.com/business/markets/ai-firm-anthropic-shares-wall-streets-nasdaq-debut/article71721723.ece",
    "source": "The Hindu – Business",
    "category": "India",
-   "published": "2026-11-19T18:54:56Z",
-   "summary": "Anthropic raised a record $81.3 billion in its offering, valuing the Claude-maker at about $1.5 trillion (including options) and about $1.8 trillion at roughly $98 per share",
+   "published": "2026-11-19T21:16:25Z",
+   "summary": "The shares ended the session at around $97, up from an IPO price of $83, after opening at $111.50 and briefly valuing the maker of the Claude chatbot at about $2 trillion",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "US Sour Crude’s War Premium Vanishes as Supply Surges",
+   "link": "https://www.livemint.com/market/us-sour-crude-s-war-premium-vanishes-as-supply-surges-11795121544365.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-19T20:52:23Z",
+   "summary": "The price of US sour oil has plunged, as a surge of oil from Venezuela, Canada and the Middle East gives refiners ample barrels to choose from.",
+   "tags": [
+    "Oil"
+   ]
+  },
+  {
+   "title": "Latin America Currencies Sink on Rate Worries; Brazil Intervenes",
+   "link": "https://www.livemint.com/market/latin-america-currencies-sink-on-rate-worries-brazil-intervenes-11795119814041.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-19T20:23:33Z",
+   "summary": "A sell-off in Latin American currencies deepened Thursday, sending the Mexican peso to its lowest since June 2025 and forcing Brazil’s central bank to step in to prop up the real, amid the mounting prospect of more rate…",
    "tags": []
+  },
+  {
+   "title": "Japanese investors sought $9.4 billion of shares in Anthropic IPO, sources say",
+   "link": "https://www.livemint.com/market/japanese-investors-sought-9-4-billion-of-shares-in-anthropic-ipo-sources-say-11795118526140.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-19T20:02:05Z",
+   "summary": "ANTHROPIC-IPO/JAPAN:Japanese investors sought $9.4 billion of shares in Anthropic IPO, sources say",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "Canadian dollar steadies near 19-month low as stocks slide",
+   "link": "https://www.livemint.com/market/canadian-dollar-steadies-near-19-month-low-as-stocks-slide-11795117459008.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-19T19:44:18Z",
+   "summary": "CANADA-FOREX/:CANADA FX DEBT-Canadian dollar steadies near 19-month low as stocks slide",
+   "tags": [
+    "FX",
+    "Equities"
+   ]
   },
   {
    "title": "Offshore Chinese Yuan Drops to Weakest Level in Over a Month",
@@ -324,7 +391,7 @@
    ]
   },
   {
-   "title": "Anthropic IPO Live Updates: US stocks fall sharply as Anthropic debut fails to reignite AI trade",
+   "title": "Anthropic IPO Highlights: US stocks tumble 2%, head for longest losing streak since 2024 despite strong Anthropic debut",
    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-stock-price-live-us-market-dow-jones-nasdaq-ai-chip-nvidia-palo-alto-amazon-alphabet-coreweave-microsoft-fed-rate-hike-treasury-yield-news-19th-novmeber-2026/liveblog/135993460.cms",
    "source": "Economic Times – Markets",
    "category": "India",
@@ -3971,75 +4038,6 @@
    "summary": "Six Nifty500 stocks featured in StockEdge’s White Marubozu bullish scanner on November 17, indicating strong upward price momentum during the trading session.",
    "tags": [
     "Equities"
-   ]
-  },
-  {
-   "title": "Yes Bank among 4 stocks showing RSI Trending Up",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-among-4-stocks-showing-rsi-trending-up/slideshow/135909214.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-17T03:40:39Z",
-   "summary": "“RSI trending up” means that the Relative Strength Index (RSI) values are increasing, indicating strengthening momentum in the stock's price. The RSI is a technical indicator commonly used by traders to assess price…",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "SML Mahindra Rights Issue Details: ₹1,450 crore offer; check open date, price, record date, ratio and key details",
-   "link": "https://www.livemint.com/market/stock-market-news/sml-mahindra-rights-issue-rs-1-450-crore-offer-opens-december-1-check-price-record-date-ratio-and-key-details-11794884978209.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-17T03:37:07Z",
-   "summary": "SML Mahindra has fixed its rights issue price at ₹3,506 per share, with eligible shareholders entitled to two shares for every seven held. The proceeds will primarily fund its acquisition of Mahindra's truck and bus…",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Positive Breakout: 6 stocks close above their 200 DMAs",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-6-stocks-close-above-their-200-dmas/slideshow/135909082.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-17T03:30:12Z",
-   "summary": "The 200-day moving average (DMA) is a key indicator traders use to determine a stock's overall trend.",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Jimmy Tata backs Tata Sons listing, accuses Noel of ‘back-door takeover’",
-   "link": "https://www.thehindu.com/business/Industry/jimmy-tata-backs-tata-sons-listing-accuses-noel-of-back-door-takeover/article71708314.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-17T03:19:24Z",
-   "summary": "He urged the RBI to enforce strict listing timelines and prevent any breakup of the group, while calling on the government and Charity Commissioner to safeguard the trusts’ founding objectives.",
-   "tags": [
-    "RBI"
-   ]
-  },
-  {
-   "title": "Gold prices near 1-year low, silver slides as dollar hits 19-month high: Should you buy before wedding season or wait?",
-   "link": "https://www.livemint.com/market/stock-market-news/gold-prices-near-1-year-low-silver-slides-as-dollar-hits-19-month-high-should-you-buy-before-wedding-season-or-wait-11794882191547.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-17T03:08:20Z",
-   "summary": "Gold and silver edged higher on Tuesday after a sharp sell-off, but remained near multi-year lows. A strong US dollar, rising Treasury yields and expectations of another Federal Reserve rate hike continue to pressure…",
-   "tags": [
-    "Rates",
-    "FX",
-    "Gold",
-    "Fed"
-   ]
-  },
-  {
-   "title": "Export duty on diesel hiked ₹2.5/litre, ATF ₹1.5/litre, petrol remains nil",
-   "link": "https://www.thehindu.com/business/Industry/export-duty-on-diesel-hiked-25litre-atf-15litre-petrol-remains-nil/article71710215.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-17T03:04:06Z",
-   "summary": "The hike in diesel levy assumes added significance as India looks to further up their exports of the vehicular fuel to Europe amid a global supply crunch.",
-   "tags": [
-    "FX"
    ]
   }
  ]
