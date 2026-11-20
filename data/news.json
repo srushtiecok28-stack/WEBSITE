@@ -1,7 +1,239 @@
 {
- "generated": "2026-11-20T03:59:19Z",
- "errors": [],
+ "generated": "2026-11-20T07:25:25Z",
+ "errors": [
+  "Federal Reserve: HTTPError"
+ ],
  "items": [
+  {
+   "title": "India’s ‘no AI play’ remains a bother for fund managers even as foreign investors return",
+   "link": "https://www.livemint.com/market/mark-to-market/indias-no-ai-play-remains-a-bother-for-fund-managers-even-as-foreign-investors-return-11795149415163.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-20T07:14:31Z",
+   "summary": "Foreign investors have returned to Indian equities, but the lack of AI-linked opportunities, rupee pressure and growth risks continue to weigh on sentiment.",
+   "tags": [
+    "FX"
+   ]
+  },
+  {
+   "title": "PC Jeweller, Kalyan Jewellers to Senco Gold: Jewellery stocks fall 5% as gold prices slips below ₹1.25 lakh;buy or sell?",
+   "link": "https://www.livemint.com/market/stock-market-news/pc-jeweller-kalyan-jewellers-to-senco-gold-jewellery-stocks-fall-5-as-gold-prices-slips-below-1-25-lakh-buy-or-sell-11795152566909.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-20T07:07:58Z",
+   "summary": "Jewellery stocks fell on Friday as gold prices extended a global selloff. PC Jeweller dropped nearly 5%, Kalyan Jewellers about 7% and Senco Gold around 2%. Analysts said the stocks’ technical outlook remains weak,…",
+   "tags": [
+    "Gold",
+    "Equities"
+   ]
+  },
+  {
+   "title": "Hindustan Zinc vs Tata Steel vs JSW Steel: Which metal stock to buy amid big fall in the metal stocks | Targets",
+   "link": "https://www.livemint.com/market/stock-market-news/hindustan-zinc-vs-tata-steel-vs-jsw-steel-which-metal-stock-to-buy-amid-big-fall-in-the-metal-stocks-targets-11795153441565.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-20T06:45:30Z",
+   "summary": "Metal stocks fell sharply as a stronger US dollar and weaker global base metal prices pressured the sector. Analysts prefer JSW Steel, citing its stronger uptrend and support levels. Tata Steel has a corrective setup,…",
+   "tags": [
+    "FX",
+    "Equities"
+   ]
+  },
+  {
+   "title": "Social poker with £5 stake is booming, says dealer",
+   "link": "https://www.bbc.co.uk/news/articles/cm8947dy3kg9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-20T06:19:25Z",
+   "summary": "A poker league in Fenland sees a 35% rise in players since 2022.",
+   "tags": []
+  },
+  {
+   "title": "Survey reveals 'major increase' in cost of living",
+   "link": "https://www.bbc.co.uk/news/articles/cq772r7kk315o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-20T06:12:28Z",
+   "summary": "More than two thirds of respondents reported noticing rises in the cost of living.",
+   "tags": []
+  },
+  {
+   "title": "Why Tips Films' shares jump 15% after the announcement of voluntary delisting? Experts's views, target price, stop-loss",
+   "link": "https://www.livemint.com/market/stock-market-news/why-tips-films-shares-jump-15-after-the-announcement-of-voluntary-delisting-expertss-views-target-price-stoploss-11795146325237.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-20T06:10:41Z",
+   "summary": "Tips Films' share price today opened with an upside gap and touched an intraday high of ₹434 per share on the NSE, logging an intraday gain of over 15%",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
+   "link": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-20T06:00:33Z",
+   "summary": "The properties are marketed at premium prices with claims of “government-backed” returns, the BBC finds.",
+   "tags": []
+  },
+  {
+   "title": "₹200 small-cap stock jumps 4%: Public shareholders' stake can shrink from 50.11% to 10.03% after this update. Details",
+   "link": "https://www.livemint.com/market/stock-market-news/rs-200-small-cap-stock-jumps-4-public-shareholders-stake-can-shrink-from-50-11-to-10-03-after-this-update-details-11795152786864.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-20T05:42:18Z",
+   "summary": "Shanti Education Initiatives shares rose as much as 3.8% after BSE issued no adverse observations on a restructuring scheme involving Grew Energy. The company can proceed toward filing with the NCLT, but must first meet…",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "Apollo Hospitals, Aster or Molbio — which is a better bet as healthcare stocks rally up to 4% despite D-Street weakness?",
+   "link": "https://www.livemint.com/market/stock-market-news/apollo-hospitals-aster-or-molbio-which-is-a-better-bet-as-healthcare-stocks-rally-up-to-4-despite-d-street-weakness-11795149565847.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-20T05:28:32Z",
+   "summary": "Hospital stocks attracted investor attention after Macquarie turned more positive on Apollo Hospitals and Max Healthcare, raising both price targets. It expects improving utilisation and earnings to support the sector,…",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "Treasury rally spills over to Indian bonds, debt supply slows move",
+   "link": "https://economictimes.indiatimes.com/markets/bonds/treasury-rally-spills-over-to-indian-bonds-debt-supply-slows-move/articleshow/136014379.cms",
+   "source": "Economic Times – Markets",
+   "category": "India",
+   "published": "2026-11-20T05:19:20Z",
+   "summary": "Indian government bonds saw slight gains, reflecting the upward trend in US Treasuries. Investors are keeping a close eye on the forthcoming weekly debt auction, pivotal for market movements. With retail inflation and…",
+   "tags": [
+    "Inflation"
+   ]
+  },
+  {
+   "title": "Rupee rises past 93 vs USD as portfolio inflows, bear retreat fuel rally",
+   "link": "https://economictimes.indiatimes.com/markets/forex/rupee-rises-past-93-vs-usd-as-portfolio-inflows-bear-retreat-fuel-rally/articleshow/136014185.cms",
+   "source": "Economic Times – Markets",
+   "category": "India",
+   "published": "2026-11-20T05:08:53Z",
+   "summary": "The Indian rupee has shown remarkable strength, breaking the 93 per dollar barrier for the first time since April. This positive shift was fueled by impressive foreign portfolio investments, exceeding $12 billion in…",
+   "tags": [
+    "FX"
+   ]
+  },
+  {
+   "title": "Stock markets fall in early trade amid profit-taking, weak global trends",
+   "link": "https://www.thehindu.com/business/markets/stock-markets-fall-in-early-trade-amid-profit-taking-weak-global-trends/article71723143.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-20T04:57:01Z",
+   "summary": "From the Sensex pack, Titan, Tata Steel, Axis Bank, NTPC, Hindustan Unilever and Eternal were among the major laggards",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "Rupee strengthens 17 paise to 93.15 against US dollar in early trade",
+   "link": "https://economictimes.indiatimes.com/markets/forex/rupee-strengthens-17-paise-to-93-15-against-us-dollar-in-early-trade/articleshow/136013858.cms",
+   "source": "Economic Times – Markets",
+   "category": "India",
+   "published": "2026-11-20T04:54:03Z",
+   "summary": "Rupee gained 17 paise to trade at 93.15 against the US dollar in early trade on Friday. The appreciation was supported by strong foreign fund inflows into the domestic equity markets. Despite higher crude prices and…",
+   "tags": [
+    "FX",
+    "Oil",
+    "Equities"
+   ]
+  },
+  {
+   "title": "Infosys, TCS, HCL Tech: Indian IT stocks buck global AI rout trend; Nifty IT jumps 2% - Key reasons | Top shares to buy",
+   "link": "https://www.livemint.com/market/stock-market-news/infosys-tcs-hcl-tech-indian-it-stocks-buck-global-ai-rout-trend-nifty-it-jumps-2-key-reasons-top-shares-to-buy-11795103694291.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-20T04:49:37Z",
+   "summary": "Indian IT stocks rose more than 2% on Friday, bucking global technology losses and a decline in the Nifty 50. The broad-based rebound followed three sessions of losses and was supported by value buying, foreign inflows,…",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "Jewellers’ body GJC calls for vigilance as an alleged ‘gold scam’ surfaces",
+   "link": "https://www.thehindu.com/business/Industry/jewellers-body-gjc-calls-for-vigilance-as-an-alleged-gold-scam-surfaces/article71723030.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-20T04:48:40Z",
+   "summary": "This comes amid recent media reports regarding certain materials, commonly referred to as Rhenium and Iridium-based alloys, allegedly being used by scamsters to increase the weight of gold without a proportional…",
+   "tags": [
+    "Gold"
+   ]
+  },
+  {
+   "title": "Anthropic shares close 17% higher on first day of trading amid protest, arrests outside Nasdaq",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/anthropic-shares-close-17-higher-on-first-day-of-trading-amid-protest-arrests-outside-nasdaq/videoshow/136013757.cms",
+   "source": "Economic Times – Markets",
+   "category": "India",
+   "published": "2026-11-20T04:48:04Z",
+   "summary": "",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "SELLAS Life Sciences shares plunge 19%: What triggered the sharp sell-off?",
+   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/sellas-life-sciences-shares-plunge-19-what-triggered-the-sharp-sell-off/slideshow/136013890.cms",
+   "source": "Economic Times – Markets",
+   "category": "India",
+   "published": "2026-11-20T04:47:39Z",
+   "summary": "SELLAS Life Sciences shares plunged nearly 20% after the biotechnology company priced a $150 million public offering at $13 per share, a discount of around 28% to its previous close. The sell-off followed a sharp rally…",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "Rupee strengthens 17 paise to 93.15 against U.S. dollar",
+   "link": "https://www.thehindu.com/business/markets/indian-rupee-vs-us-dollar-on-november-20-2026/article71723126.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-20T04:41:26Z",
+   "summary": "Forex traders said the local unit showed resilience despite higher crude oil prices and negative sentiment in domestic stock markets",
+   "tags": [
+    "FX",
+    "Oil"
+   ]
+  },
+  {
+   "title": "Anthropic shares close 17% higher on first day of trading",
+   "link": "https://www.thehindu.com/business/markets/ai-firm-anthropic-shares-wall-streets-nasdaq-debut/article71721723.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-20T04:01:02Z",
+   "summary": "The shares ended the session at around $97, up from an IPO price of $83, after opening at $111.50 and briefly valuing the maker of the Claude chatbot at about $2 trillion",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "Anthropic raises $81 billion in IPO amid AI market volatility",
+   "link": "https://www.thehindu.com/business/anthropic-raises-81-billion-in-ipo-amid-ai-market-volatility/article71721392.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-20T03:59:51Z",
+   "summary": "The Claude maker priced its shares at $83 apiece, implying an equity valuation of about $1.03 trillion based on outstanding shares, with trading scheduled to begin on Nasdaq under the ticker ANT on November 19",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "IndiGo, Tata Motors PV among 10 Nifty stocks facing earnings downgrades",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/indigo-tata-motors-pv-among-10-nifty-stocks-facing-earnings-downgrades/slideshow/136012225.cms",
+   "source": "Economic Times – Markets",
+   "category": "India",
+   "published": "2026-11-20T03:41:57Z",
+   "summary": "Elara Securities identifies 10 Nifty 50 companies facing the sharpest earnings estimate downgrades for FY27 and FY28 against its Q2FY27 preview. IndiGo leads the list, followed by Tata Motors PV and Eternal. The…",
+   "tags": [
+    "Equities"
+   ]
+  },
   {
    "title": "Axis Direct names 35 top stocks to buy; ICICI Bank, HUL and Maruti Suzuki feature in list",
    "link": "https://economictimes.indiatimes.com/markets/stocks/news/axis-direct-names-35-top-stocks-to-buy-icici-bank-hul-and-maruti-suzuki-feature-in-list/slideshow/136011903.cms",
@@ -14,7 +246,7 @@
    ]
   },
   {
-   "title": "Gold Rates Live Updates: Gold slides 4%, silver tumbles 6% on MCX as dollar strengthens, Fed rate hike bets rise",
+   "title": "Gold Rate Live Updates: Gold plunges Rs 6,000/10g, silver sheds Rs 9,900/kg amid Fed rate hike bets; Buy the dip or wait?",
    "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/live-updates-gold-rate-today-20th-november-24k-22k-20k-18-carat-mcx-gold-silver-price-in-delhi-hyderabad-chennai-bengaluru-citywise/liveblog/136011549.cms",
    "source": "Economic Times – Markets",
    "category": "India",
@@ -22,7 +254,6 @@
    "summary": "",
    "tags": [
     "Rates",
-    "FX",
     "Gold"
    ]
   },
@@ -83,13 +314,24 @@
    ]
   },
   {
-   "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
+   "title": "GTA 6 breaks records as estimated sales top $2.3bn",
    "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "category": "Global",
    "published": "2026-11-20T02:54:40Z",
    "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
    "tags": []
+  },
+  {
+   "title": "D-Street’s stellar rally faces valuation test as bond allure grows",
+   "link": "https://economictimes.indiatimes.com/markets/bonds/indias-stock-rally-faces-valuation-test-as-bond-allure-grows/articleshow/136010605.cms",
+   "source": "Economic Times – Markets",
+   "category": "India",
+   "published": "2026-11-20T02:47:28Z",
+   "summary": "India's stock market is experiencing valuation challenges due to increasing bond yields that diminish equity attractiveness. The gap between government bond yields and stock earnings yield has widened significantly…",
+   "tags": [
+    "Equities"
+   ]
   },
   {
    "title": "India’s stock rally faces valuation test as bond allure grows",
@@ -205,7 +447,7 @@
    ]
   },
   {
-   "title": "Stock Market Live Updates | Opening Bell: Sensex slides over 400 pts, Nifty below 25,400; Hindalco, Titan drop 2% each",
+   "title": "Stock Market Live Updates: Sensex rebounds 1,000 pts from day's low, Nifty back above 25,600; IT stocks rally",
    "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-paytm-coal-india-share-price-20-november-2026/liveblog/136009816.cms",
    "source": "Economic Times – Markets",
    "category": "India",
@@ -329,17 +571,6 @@
    "tags": [
     "FX",
     "Oil"
-   ]
-  },
-  {
-   "title": "Anthropic shares close 17% higher on first day of trading",
-   "link": "https://www.thehindu.com/business/markets/ai-firm-anthropic-shares-wall-streets-nasdaq-debut/article71721723.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-20T00:16:17Z",
-   "summary": "The shares ended the session at around $97, up from an IPO price of $83, after opening at $111.50 and briefly valuing the maker of the Claude chatbot at about $2 trillion",
-   "tags": [
-    "Equities"
    ]
   },
   {
@@ -483,17 +714,6 @@
    "summary": "GLOBAL-OIL:Oil prices inch up as tanker disruptions offset surplus supply outlook",
    "tags": [
     "Oil"
-   ]
-  },
-  {
-   "title": "Anthropic raises $81 billion in IPO amid AI market volatility",
-   "link": "https://www.thehindu.com/business/anthropic-raises-81-billion-in-ipo-amid-ai-market-volatility/article71721392.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-19T18:38:46Z",
-   "summary": "The Claude maker priced its shares at $83 apiece, implying an equity valuation of about $1.03 trillion based on outstanding shares, with trading scheduled to begin on Nasdaq under the ticker ANT on November 19",
-   "tags": [
-    "Equities"
    ]
   },
   {
@@ -1158,7 +1378,7 @@
    "tags": []
   },
   {
-   "title": "Gold Rates Updates: Gold prices fall marginally, silver gains on MCX. Check future estimates",
+   "title": "Gold Rates Highlights: Gold prices fall marginally, silver gains on MCX. Check future estimates",
    "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/live-updates-gold-rate-today-19th-november-24k-22k-20k-18-carat-mcx-gold-silver-price-in-delhi-hyderabad-chennai-bengaluru-citywise/liveblog/135979606.cms",
    "source": "Economic Times – Markets",
    "category": "India",
@@ -3840,212 +4060,6 @@
    "published": "2026-11-17T12:43:07Z",
    "summary": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\".",
    "tags": []
-  },
-  {
-   "title": "Where are the most jobs for 18-24 year-olds?",
-   "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Global",
-   "published": "2026-11-17T12:35:53Z",
-   "summary": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
-   "tags": []
-  },
-  {
-   "title": "Rupee rises 43 paise to close at 93.51 (provisional) against U.S. dollar",
-   "link": "https://www.thehindu.com/business/Industry/rupee-rises-43-paise-to-close-at-9351-provisional-against-us-dollar/article71711483.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-17T12:19:19Z",
-   "summary": "Forex traders said fresh foreign fund inflows and softer crude oil prices are supporting the rupee, while a stronger dollar and rising U.S. yields remain key risks",
-   "tags": [
-    "FX",
-    "Oil"
-   ]
-  },
-  {
-   "title": "Nifty 50 hits 9-month high, crosses 25,500: Can the rally extend towards 25,800? Here's what analysts say",
-   "link": "https://www.livemint.com/market/stock-market-news/nifty-50-hits-9-month-high-crosses-25-500-can-the-rally-extend-towards-25-800-heres-what-analysts-say-11794916441623.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-17T12:06:52Z",
-   "summary": "The Nifty 50 rose 0.38% to a nine-month high on Tuesday, briefly crossing 25,500, as banking and realty shares gained and easing oil prices and foreign inflows lifted sentiment. Analysts see further upside if the index…",
-   "tags": [
-    "Oil",
-    "Equities"
-   ]
-  },
-  {
-   "title": "Indian bonds surge after oil slide eases aggressive rate hike concerns",
-   "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-surge-after-oil-slide-eases-aggressive-rate-hike-concerns/articleshow/135924727.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-17T12:02:23Z",
-   "summary": "On Tuesday, Indian government bonds rallied significantly, buoyed by falling oil prices that shifted market sentiment. The 6.94% 2036 bond's yield dipped to 7.2528%, a drop from 7.3169% the previous day. Analysts posit…",
-   "tags": [
-    "Rates",
-    "Oil"
-   ]
-  },
-  {
-   "title": "Eternal among 5 stocks hitting 52-week highs; stock rallies up to 15% in a month",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/news/eternal-among-5-stocks-hitting-52-week-highs-stock-rallies-up-to-15-in-a-month/slideshow/135924700.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-17T11:57:16Z",
-   "summary": "Five BSE 100 stocks, including Eternal, DLF and Kotak Mahindra Bank, touched fresh 52-week highs on Tuesday. Eternal led monthly gains with a 15% rally.",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "AI, cloud investments to drive India’s IT spending to ₹16.9 trillion in 2027: Gartner",
-   "link": "https://www.thehindu.com/business/Industry/ai-cloud-investments-to-drive-indias-it-spending-to-169-trillion-in-2027-gartner/article71711345.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-17T11:49:40Z",
-   "summary": "India is entering a new phase of technology investment where AI infrastructure and digital sovereignty are becoming strategic priorities, says the analyst firm",
-   "tags": []
-  },
-  {
-   "title": "₹82 to ₹253: Multibagger stock turns ₹1.31 lakh of share allottees into ₹4.05 lakh in 40 months; do you own?",
-   "link": "https://www.livemint.com/market/stock-market-news/rs-82-to-rs-253-multibagger-stock-turns-rs-1-31-lakh-of-share-allottees-into-rs-4-05-lakh-in-40-months-do-you-own-11794913872967.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-17T11:39:30Z",
-   "summary": "Multibagger stock: Shares of the company were offered in the Indian primary market at a fixed price of ₹82 per equity share",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Disney beats earnings forecasts, plans to increase content spending",
-   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/disney-beats-earnings-forecasts-plans-to-increase-content-spending/articleshow/135923706.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-17T11:35:48Z",
-   "summary": "In a promising financial update, Walt Disney has revealed a rise in quarterly revenue and earnings, attributed to greater theme park attendance and NFL broadcasts. Looking ahead, the company plans to elevate its content…",
-   "tags": []
-  },
-  {
-   "title": "Making a comeback! Down 60% in 1 year, strong rally seen ahead for renewable energy stock Inox Wind; 42% upside likely",
-   "link": "https://www.livemint.com/market/stock-market-news/making-a-comeback-down-60-in-1-year-strong-rally-seen-ahead-for-renewable-energy-stock-inox-wind-42-upside-likely-11794910421216.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-17T11:29:53Z",
-   "summary": "Religare retained its BUY rating on Inox Wind with an ₹83 target, citing equipment-led growth, a 3.8 GW order book, manufacturing expansion and a larger O&amp;M business. It expects strong FY26–FY28 growth, while…",
-   "tags": []
-  },
-  {
-   "title": "Anthropic IPO windfall: From Sequoia to Amazon, who wins big as Claude maker eyes $1.33 trillion valuation",
-   "link": "https://www.livemint.com/market/ipo/anthropic-ipo-windfall-from-sequoia-to-amazon-who-wins-big-as-claude-maker-eyes-1-33-trillion-valuation-11794910889109.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-17T11:22:05Z",
-   "summary": "The proposed IPO comes amid heightened investor interest in artificial intelligence companies and developments surrounding chipmaker Nvidia. Anthropic's valuation has already reached $965 billion following a series of…",
-   "tags": []
-  },
-  {
-   "title": "FMCG stocks recover from six-month correction; Anand Rathi picks 4 stocks for up to 57% growth opportunity. Time to buy?",
-   "link": "https://www.livemint.com/market/stock-market-news/fmcg-stocks-recover-from-six-month-correction-anand-rathi-picks-4-stocks-for-up-to-57-growth-opportunity-time-to-buy-11794912749464.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-17T11:19:47Z",
-   "summary": "FMCG and consumer stocks are recovering as improving rural demand, urban consumption and company performance boost sentiment. Anand Rathi expects revenue growth to strengthen in FY27, despite margin pressure from higher…",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "US government confirms investigation into tech firm Megaspeed",
-   "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Global",
-   "published": "2026-11-17T11:17:32Z",
-   "summary": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
-   "tags": []
-  },
-  {
-   "title": "TCS vs Infosys: Better IT stock to buy amid anti-AI trade buzz | Experts' views, target price, stop-loss, rationale",
-   "link": "https://www.livemint.com/market/stock-market-news/tcs-vs-infosys-better-it-stock-to-buy-amid-anti-ai-trade-buzz-experts-views-target-price-stop-loss-rationale-11794910515731.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-17T10:57:49Z",
-   "summary": "Experts believe smart global capital has started rotating out of overcrowded global AI plays into Indian IT services as a hedge against overheating in Western tech stocks",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Nvidia to reveal first earnings since spy scandal",
-   "link": "https://www.thehindu.com/business/nvidia-to-reveal-first-earnings-since-spy-scandal/article71711204.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-17T10:50:40Z",
-   "summary": "Investors will closely scrutinize the results for indications the artificial intelligence boom can withstand the crisis",
-   "tags": []
-  },
-  {
-   "title": "Immigration arrests after organised crime blitz",
-   "link": "https://www.bbc.co.uk/news/videos/cm3eg3q758gjo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Global",
-   "published": "2026-11-17T10:49:58Z",
-   "summary": "Eighteen people were arrested for a range of suspected crimes including modern slavery, police say.",
-   "tags": []
-  },
-  {
-   "title": "Robust inflows, pullback in shorts lift rupee to seven-month peak",
-   "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/robust-inflows-pullback-in-shorts-lift-rupee-to-seven-month-peak/articleshow/135921416.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-17T10:43:17Z",
-   "summary": "The Indian rupee saw a notable rise, achieving its peak value in seven months following a surge in foreign equity investments. Closing at 93.47 per dollar, this upswing was driven by an impressive influx of $10 billion…",
-   "tags": [
-    "FX",
-    "Equities"
-   ]
-  },
-  {
-   "title": "HDFC Bank vs Axis Bank: Both shares recover after Q2 sell-off; which banking stock offers higher upside? Check targets",
-   "link": "https://www.livemint.com/market/stock-market-news/hdfc-bank-vs-axis-bank-both-shares-recover-after-q2-sell-off-which-banking-stock-offers-higher-upside-check-targets-11794907748296.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-17T10:14:25Z",
-   "summary": "HDFC Bank and Axis Bank shares have rebounded since October, putting both lenders back in focus. Axis Bank posted stronger quarterly profit growth, while HDFC Bank delivered healthy lending growth and improved asset…",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Millions launches US stocks, ETFs investment facility for Indian investors",
-   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/millions-launches-us-stocks-etfs-investment-facility-for-indian-investors/articleshow/135920698.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-17T10:14:05Z",
-   "summary": "Investment platform Millions, operated by Raise Financial Services, has launched US stocks and ETFs on its app. This new feature allows Indian investors to make fractional investments and use systematic investment…",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Sebi may limit leveraged stock bets to curb volatility: Report",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-may-limit-leveraged-stock-bets-to-curb-volatility-report/articleshow/135920460.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-17T10:07:02Z",
-   "summary": "India's markets regulator is exploring potential limits on leveraged stock purchases amid increasing retail participation. Concerns have arisen as margin-funded stock bets have reached record levels in recent months.…",
-   "tags": []
-  },
-  {
-   "title": "Steel prices are rising again: Is it wise to buy metal stocks? Experts pick Tata Steel, JSW and 4 others | Targets, SL",
-   "link": "https://www.livemint.com/market/stock-market-news/steel-prices-are-rising-again-is-it-wise-to-buy-metal-stocks-experts-pick-tata-steel-jsw-and-4-others-targets-sl-11794905709244.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-17T09:18:33Z",
-   "summary": "Indian steel stocks are drawing interest as higher domestic prices, improving margins and infrastructure demand support earnings prospects. Analysts recommend selective exposure to cos with raw-material security,…",
-   "tags": [
-    "Equities"
-   ]
   }
  ]
 }
