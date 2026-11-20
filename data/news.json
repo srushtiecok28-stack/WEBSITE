@@ -1,9 +1,257 @@
 {
- "generated": "2026-11-20T07:25:25Z",
- "errors": [
-  "Federal Reserve: HTTPError"
- ],
+ "generated": "2026-11-20T10:12:12Z",
+ "errors": [],
  "items": [
+  {
+   "title": "Anthropic’s journey from start-up to stock market giant | Infographics",
+   "link": "https://www.thehindu.com/business/anthropic-journey-from-start-up-to-stock-market-giant-infographics/article71723571.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-20T09:56:37Z",
+   "summary": "From its founding in 2021 to a record-breaking Nasdaq debut, tracing Anthropic’s journey into one of the world’s most valuable AI companies",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "Airbnb's divisive new house rules come into force",
+   "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-20T09:55:20Z",
+   "summary": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
+   "tags": []
+  },
+  {
+   "title": "NSE share price target: Up 37% from low, stock hits record high! Anand Rathi sees further upside, initiates with 'buy'",
+   "link": "https://www.livemint.com/market/stock-market-news/nse-share-price-target-up-37-from-low-stock-hits-record-high-anand-rathi-sees-further-upside-initiates-with-buy-11795166679623.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-20T09:53:05Z",
+   "summary": "NSE shares hit a record ₹2,251, gaining 28% in a month. Anand Rathi initiated coverage with a Buy rating and a ₹2,381 target, citing the exchange’s dominant market position, strong competitive barriers and growth…",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "AI trade rethink: Will Indian largecaps get first dibs on FPI flows?",
+   "link": "https://www.livemint.com/market/stock-market-news/ai-trade-rethink-will-indian-largecaps-get-first-dibs-on-fpi-flows-11795149045459.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-20T09:48:42Z",
+   "summary": "An eventual rotation of global capital away from the concentrated AI trade can benefit Indian largecaps, which have borne the brunt of FPI selling over the past two years",
+   "tags": []
+  },
+  {
+   "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
+   "link": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-20T09:44:56Z",
+   "summary": "People stocking up on long-life food drove retail sales higher October, according to official data.",
+   "tags": []
+  },
+  {
+   "title": "SEBI eyes faster FPI onboarding, plans fresh reforms to attract foreign capital",
+   "link": "https://www.thehindu.com/business/markets/sebi-eyes-faster-fpi-onboarding-plans-fresh-reforms-to-attract-foreign-capital/article71723707.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-20T09:41:52Z",
+   "summary": "“By simplifying procedures and reducing avoidable compliance burdens, we aim to attract a wider pool of international capital and improve financing opportunities for Indian businesses while maintaining investor…",
+   "tags": []
+  },
+  {
+   "title": "Anthropic's debut rally fades as shares crack 7% in US pre-market trade",
+   "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropics-debut-rally-fades-as-shares-crack-7-in-pre-market-trade-on-day-2/articleshow/136021174.cms",
+   "source": "Economic Times – Markets",
+   "category": "India",
+   "published": "2026-11-20T09:36:25Z",
+   "summary": "Anthropic shares fell as much as 7.4% in premarket trading on their second day, as a global market selloff and concerns over the AI trade overshadowed the optimism surrounding its record-setting IPO debut. After surging…",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "Sharp rupee appreciation may cut IT firms' FY27 earnings by up to 13%: Report",
+   "link": "https://economictimes.indiatimes.com/markets/forex/sharp-rupee-appreciation-may-cut-it-firms-fy27-earnings-by-up-to-13-report/articleshow/136021296.cms",
+   "source": "Economic Times – Markets",
+   "category": "India",
+   "published": "2026-11-20T09:36:14Z",
+   "summary": "According to a new report, the appreciation of the Indian rupee could lead Indian IT companies to experience reduced earnings. The stronger rupee against foreign currencies may significantly impact profitability,…",
+   "tags": [
+    "FX"
+   ]
+  },
+  {
+   "title": "Bull run gathers pace! IndusInd Bank shares surge 8.5%, head for best week in over a year; Should investors still buy?",
+   "link": "https://www.livemint.com/market/stock-market-news/bull-run-gathers-pace-indusind-bank-shares-surge-8-5-head-for-best-week-in-over-a-year-should-investors-still-buy-11795162715431.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-20T09:29:01Z",
+   "summary": "IndusInd Bank shares rose 8.5% to ₹1,001 on Friday, extending their weekly gains to nearly 9% and marking a fourth consecutive weekly advance. The rally followed a return to quarterly profitability, stronger core income…",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "FPIs turn big buyers, pump over ₹1 lakh cr into D-Street in Nov: What triggered the sudden turnaround, what's next?",
+   "link": "https://www.livemint.com/market/stock-market-news/fpis-turn-big-buyers-pump-over-rs-1-lakh-cr-into-d-street-in-nov-what-triggered-the-sudden-turnaround-whats-next-11795164561504.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-20T09:24:22Z",
+   "summary": "FPIs invested a record ₹1.15 lakh crore in Indian equities in November so far, led by financials and consumer stocks. The buying follows improved earnings, more appealing valuations and easing oil prices, though…",
+   "tags": [
+    "Oil",
+    "Equities"
+   ]
+  },
+  {
+   "title": "Sebi plans consultation paper to remove FPI constraints absent in other markets",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-plans-consultation-paper-to-remove-fpi-constraints-absent-in-other-markets/articleshow/136020808.cms",
+   "source": "Economic Times – Markets",
+   "category": "India",
+   "published": "2026-11-20T09:19:53Z",
+   "summary": "SEBI is set to release a consultation paper aimed at simplifying regulations for foreign portfolio investors. The goal is to eliminate certain compliance restrictions to enhance India's appeal to global investors. SEBI…",
+   "tags": []
+  },
+  {
+   "title": "BofA Fund Manager Survey: India is back in favour! FIIs overweight on India for 1st time since Jan 2026; key takeaways",
+   "link": "https://www.livemint.com/market/stock-market-news/bofa-fund-manager-survey-india-is-back-in-favour-fiis-overweight-on-india-for-1st-time-since-jan-2026-key-takeaways-11795160664049.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-20T09:19:31Z",
+   "summary": "Foreign investors turned net overweight on Indian equities for the first time since January 2026, according to a Bank of America survey. However, concerns about limited AI opportunities, slow reforms and currency…",
+   "tags": [
+    "FX"
+   ]
+  },
+  {
+   "title": "Why is PM Modi upset with corporate India? | Explained",
+   "link": "https://www.thehindu.com/business/why-is-pm-modi-upset-with-corporate-india-explained/article71723615.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-20T09:18:49Z",
+   "summary": "The Prime Minister pulled up industry leaders on four different issues. Government data and anecdotal evidence shows why he is angry",
+   "tags": []
+  },
+  {
+   "title": "Gold, silver ETF price crash today: Rates at 52-week low — Opportunity for investors or more pain ahead? Experts speak",
+   "link": "https://www.livemint.com/market/stock-market-news/gold-silver-etf-price-crash-today-rates-at-52-week-low-opportunity-for-investors-or-more-pain-ahead-experts-speak-11795163891648.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-20T09:18:14Z",
+   "summary": "Gold rate today on MCX slipped below ₹1.25 lakh per 10 gm and came close to ₹1.21 lakh levels",
+   "tags": [
+    "Gold"
+   ]
+  },
+  {
+   "title": "Christine Lagarde: Acting in time",
+   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
+   "source": "ECB",
+   "category": "Central banks",
+   "published": "2026-11-20T08:30:00Z",
+   "summary": "",
+   "tags": [
+    "ECB"
+   ]
+  },
+  {
+   "title": "Gold price crash: Muthoot Finance, Manappuram shares lose sheen, down up to 5% | Is gold heading for deeper correction?",
+   "link": "https://www.livemint.com/market/stock-market-news/gold-price-crash-muthoot-finance-manappuram-shares-lose-sheen-down-up-to-5-is-gold-heading-for-deeper-correction-11795161489903.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-20T08:09:00Z",
+   "summary": "Gold loan lenders Manappuram Finance and Muthoot Finance fell as gold prices hit a 1-year low amid a stronger US dollar and expectations of US Fed rate hikes. Investors are concerned that further bullion declines could…",
+   "tags": [
+    "Rates",
+    "FX",
+    "Gold",
+    "Equities"
+   ]
+  },
+  {
+   "title": "Urban Company shares dip 4% after ₹2,500 crore fundraising; opportunity to buy on the dip? Target, stop-loss",
+   "link": "https://www.livemint.com/market/stock-market-news/urban-company-shares-dip-4-after-rs-2-500-crore-fundraising-opportunity-to-buy-on-the-dip-target-stoploss-11795160058174.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-20T07:59:38Z",
+   "summary": "Urban Company shares fell over 4% despite completing a ₹2,500 crore QIP that attracted bids exceeding ₹15,000 crore. The company will use proceeds to expand InstaHelp, invest in marketing, technology and training, and…",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "Petrol Pump dealers say govt assured looking into dealer margin hike after meeting with OilMin",
+   "link": "https://www.thehindu.com/business/Industry/petrol-pump-dealers-seek-margin-hike-centre-explores-ways-to-boost-non-fuel-revenues/article71721388.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-20T07:59:05Z",
+   "summary": "In response to a query from The Hindu, Oil Minister Hardeep Puri had mentioned that LPG distributors and petrol pump operators were an important part of India’s response to global turmoil from the last four years.",
+   "tags": []
+  },
+  {
+   "title": "Gold price crash today: Rates below ₹1.25 lakh/10 gm on MCX | 3 reasons why? ₹1 lakh or ₹1.5 lakh - What's next?",
+   "link": "https://www.livemint.com/market/stock-market-news/gold-price-crash-yellow-metal-slips-below-rs-1-25-lakh-10-gm-on-mcx-3-reasons-why-rs-1-lk-or-rs-1-5-lk-whats-next-11795159069176.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-20T07:43:10Z",
+   "summary": "Gold and silver prices plunged to multi-month lows as hawkish Federal Reserve signals, rising US bond yields and a stronger dollar pressured precious metals. Investors also sold holdings to raise cash. Analysts say…",
+   "tags": [
+    "FX",
+    "Gold",
+    "Fed"
+   ]
+  },
+  {
+   "title": "Can Physicswallah deliver on its ambitious growth blueprint?",
+   "link": "https://www.livemint.com/market/mark-to-market/physicswallah-edtech-online-education-offline-coaching-revenue-growth-ebitda-margins-jee-neet-ai-tutor-11795156474405.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-20T07:41:10Z",
+   "summary": "Physicswallah is targeting ₹10,000 crore in revenue by FY30, with online growth and better offline economics central to its plan. Execution remains the key test.",
+   "tags": []
+  },
+  {
+   "title": "On top lane! Highway Infrastructure shares on cusp of breakout after rising 55% in one month; should you buy? Target, SL",
+   "link": "https://www.livemint.com/market/stock-market-news/on-top-lane-highway-infrastructure-shares-on-cusp-of-breakout-after-rising-55-in-one-month-should-you-buy-target-sl-11795157158582.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-20T07:34:02Z",
+   "summary": "Highway Infrastructure shares have been on the top lane for the last six months, delivering more than 75% returns to investors",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "Indian finance hub eyes dual share model to kickstart public offers: Report",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-finance-hub-eyes-dual-share-model-to-kickstart-public-offers-report/articleshow/136017941.cms",
+   "source": "Economic Times – Markets",
+   "category": "India",
+   "published": "2026-11-20T07:32:59Z",
+   "summary": "Indian regulators are currently assessing a new proposal that would allow companies to introduce dual-class shares for listings in both domestic markets and GIFT City. This initiative seeks to invigorate equity market…",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "Should AI be judging our credit worthiness?",
+   "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-20T07:32:19Z",
+   "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
+   "tags": []
+  },
+  {
+   "title": "IPO GMP race: Mahanadi Coalfields vs Crystal Crop Protection vs Watrana Rentals - Check grey market winner | Key dates",
+   "link": "https://www.livemint.com/market/stock-market-news/ipo-gmp-race-mahanadi-coalfields-vs-crystal-crop-protection-vs-watrana-rentals-check-grey-market-winner-key-dates-11795159118707.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-20T07:32:07Z",
+   "summary": "Grey market indicators suggest Watrana Rentals may see the strongest debut, with a ₹67 premium, followed by Crystal Crop Protection at ₹17 and Mahanadi Coalfields at ₹2. Subscription responses vary, and GMPs are…",
+   "tags": []
+  },
   {
    "title": "India’s ‘no AI play’ remains a bother for fund managers even as foreign investors return",
    "link": "https://www.livemint.com/market/mark-to-market/indias-no-ai-play-remains-a-bother-for-fund-managers-even-as-foreign-investors-return-11795149415163.html",
@@ -24,6 +272,17 @@
    "summary": "Jewellery stocks fell on Friday as gold prices extended a global selloff. PC Jeweller dropped nearly 5%, Kalyan Jewellers about 7% and Senco Gold around 2%. Analysts said the stocks’ technical outlook remains weak,…",
    "tags": [
     "Gold",
+    "Equities"
+   ]
+  },
+  {
+   "title": "Who is Roaring Kitty? The man behind GameStop's meme rally",
+   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/who-is-roaring-kitty-the-man-behind-gamestops-meme-rally/slideshow/136017912.cms",
+   "source": "Economic Times – Markets",
+   "category": "India",
+   "published": "2026-11-20T06:50:28Z",
+   "summary": "Keith Gill, better known as Roaring Kitty, is back on social media after nearly two years. His cryptic Cat Mario post sent GameStop shares higher, reviving memories of the 2021 meme-stock rally and sparking fresh…",
+   "tags": [
     "Equities"
    ]
   },
@@ -67,6 +326,15 @@
    "tags": [
     "Equities"
    ]
+  },
+  {
+   "title": "How AI could reshape global growth and productivity",
+   "link": "https://www.thehindu.com/business/Economy/how-ai-could-reshape-global-growth-and-productivity/article71717356.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-20T06:06:38Z",
+   "summary": "A key expected impact of AI is an unprecedented rise in labour productivity, as its success as a technological revolution is premised on such an increase; what remains to be seen is how pervasive its impact will be…",
+   "tags": []
   },
   {
    "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
@@ -246,14 +514,13 @@
    ]
   },
   {
-   "title": "Gold Rate Live Updates: Gold plunges Rs 6,000/10g, silver sheds Rs 9,900/kg amid Fed rate hike bets; Buy the dip or wait?",
+   "title": "Gold Rate Live Updates: Gold, silver prices slide up to 3% on MCX. Buy the dip or wait?",
    "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/live-updates-gold-rate-today-20th-november-24k-22k-20k-18-carat-mcx-gold-silver-price-in-delhi-hyderabad-chennai-bengaluru-citywise/liveblog/136011549.cms",
    "source": "Economic Times – Markets",
    "category": "India",
    "published": "2026-11-20T03:27:40Z",
    "summary": "",
    "tags": [
-    "Rates",
     "Gold"
    ]
   },
@@ -447,7 +714,7 @@
    ]
   },
   {
-   "title": "Stock Market Live Updates: Sensex rebounds 1,000 pts from day's low, Nifty back above 25,600; IT stocks rally",
+   "title": "Stock Market Live Updates: Sensex bucks Asia's trend, zooms 950 pts; Nifty Bank hits fresh high",
    "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-paytm-coal-india-share-price-20-november-2026/liveblog/136009816.cms",
    "source": "Economic Times – Markets",
    "category": "India",
@@ -572,15 +839,6 @@
     "FX",
     "Oil"
    ]
-  },
-  {
-   "title": "Airbnb's divisive new house rules come into force",
-   "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Global",
-   "published": "2026-11-20T00:12:28Z",
-   "summary": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
-   "tags": []
   },
   {
    "title": "Fish and eggs al desko? The dos and don'ts of the lunch break",
@@ -743,15 +1001,6 @@
    "category": "India",
    "published": "2026-11-19T17:20:05Z",
    "summary": "It will use the fresh capital to expand its network of outlets, invest in production capacity and supply chain infrastructure, and strengthen working capital to support its growth.",
-   "tags": []
-  },
-  {
-   "title": "Petrol pump dealers seek margin hike; Centre explores ways to boost non-fuel revenues",
-   "link": "https://www.thehindu.com/business/Industry/petrol-pump-dealers-seek-margin-hike-centre-explores-ways-to-boost-non-fuel-revenues/article71721388.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-19T17:11:15Z",
-   "summary": "In response to a query from The Hindu, Oil Minister Hardeep Puri had mentioned that LPG distributors and petrol pump operators were an important part of India’s response to global turmoil from the last four years.",
    "tags": []
   },
   {
@@ -2340,15 +2589,6 @@
    "tags": []
   },
   {
-   "title": "How AI could reshape global growth and productivity",
-   "link": "https://www.thehindu.com/business/Economy/how-ai-could-reshape-global-growth-and-productivity/article71717356.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-18T18:24:05Z",
-   "summary": "A key expected impact of AI is an unprecedented rise in labour productivity, as its success as a technological revolution is premised on such an increase; what remains to be seen is how pervasive its impact will be…",
-   "tags": []
-  },
-  {
    "title": "US Stock Market: Nasdaq preparing to roll out 23-hour-a-day trading from this date – Key facts for investors",
    "link": "https://www.livemint.com/market/us-stock-market-nasdaq-preparing-to-roll-out-23-hour-a-day-trading-from-this-date-key-facts-for-investors-11795019875609.html",
    "source": "Mint – Markets",
@@ -3836,229 +4076,6 @@
    "category": "India",
    "published": "2026-11-17T16:17:12Z",
    "summary": "The collaboration will also focus on developing in-house composite additive manufacturing capabilities among Indian manufacturers.",
-   "tags": []
-  },
-  {
-   "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
-   "link": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Global",
-   "published": "2026-11-17T15:56:04Z",
-   "summary": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
-   "tags": []
-  },
-  {
-   "title": "Nifty reclaims pre-war levels intraday as Indian stocks lead Asia with 10% monthly gain",
-   "link": "https://www.livemint.com/market/stock-market-news/nifty-reclaims-pre-war-levels-intraday-as-indian-stocks-lead-asia-with-10-monthly-gain-11794923846111.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-17T15:54:51Z",
-   "summary": "The Nifty 50 moved past its pre-conflict level, with Tuesday’s intraday high of 25,501.35 surpassing the 27 February high of 25,476. The Sensex also crossed its intraday high of 82,246.17, closing at 82,532.19 on…",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Mumbai luxury housing market shifts towards larger 4 BHK homes",
-   "link": "https://www.thehindu.com/business/mumbai-luxury-housing-market-shifts-towards-larger-4-bhk-homes/article71712959.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-17T15:46:46Z",
-   "summary": "Growing preference for spacious homes coupled with developers’ response to changing lifestyle expectations, suggests larger configurations and higher-ticket transactions may figure prominently in the city’s…",
-   "tags": []
-  },
-  {
-   "title": "Amazon to invest $7 billion in India renewables by 2030",
-   "link": "https://www.thehindu.com/business/Industry/amazon-to-invest-7-billion-in-india-renewables-by-2030/article71712037.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-17T15:04:41Z",
-   "summary": "The fresh investment is in addition to $4 billion already contracted in renewable energy investments in the country, making it one of India’s leading corporate purchasers of carbon-free energy, the company claims.",
-   "tags": []
-  },
-  {
-   "title": "US bank services returning to normal after major outage",
-   "link": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Global",
-   "published": "2026-11-17T15:04:24Z",
-   "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
-   "tags": []
-  },
-  {
-   "title": "AI boom euphoria fades: Fund managers slash tech exposure at fastest pace since 2006, BofA survey shows",
-   "link": "https://www.livemint.com/market/stock-market-news/ai-boom-euphoria-fades-fund-managers-slash-tech-exposure-at-fastest-pace-since-2006-bofa-survey-shows-11794926133056.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-17T15:00:07Z",
-   "summary": "Investor enthusiasm for AI is cooling: the share of fund managers overweight technology fell to its lowest level since 2006, and many expect AI companies to curb spending. Tech stocks have slumped, but recession fears…",
-   "tags": [
-    "Equities",
-    "Growth"
-   ]
-  },
-  {
-   "title": "Nike targets $5 billion more in revenue growth by 2031 in latest turnaround push",
-   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nike-targets-5-billion-more-in-revenue-growth-by-2031-in-latest-turnaround-push/articleshow/135930431.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-17T14:57:08Z",
-   "summary": "Nike has announced a bold new initiative designed to generate an additional $5 billion in revenue growth by fiscal 2031. According to CEO Elliott Hill, prioritizing performance sports will play a pivotal role in…",
-   "tags": []
-  },
-  {
-   "title": "Apex Coco recognised as best coconut entrepreneur",
-   "link": "https://www.thehindu.com/news/cities/Coimbatore/apex-coco-recognised-as-best-coconut-entrepreneur/article71712067.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-17T14:54:45Z",
-   "summary": "",
-   "tags": []
-  },
-  {
-   "title": "Karnataka charting next tech leap to push AI, deep-tech: CM D.K. Shivakumar",
-   "link": "https://www.thehindu.com/news/cities/bangalore/bengaluru-tech-summit-karnataka-charts-next-tech-leap-to-push-ai-deep-tech-cm-dk-shivakumar/article71710810.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-17T14:40:15Z",
-   "summary": "Inaugurating the 29th Bengaluru Tech Summit, Shivakumar unveils major infrastructure, funding, and reskilling initiatives to lead global innovation beyond artificial intelligence",
-   "tags": []
-  },
-  {
-   "title": "Signature Global-led consortium buys 194 acre land via auction for Rs 194 cr",
-   "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/signature-global-led-consortium-buys-194-acre-land-via-auction-for-rs-194-cr/articleshow/135929748.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-17T14:38:12Z",
-   "summary": "A consortium led by Signature Global has successfully acquired 474.66 acres of land in Raigad, Maharashtra. The bid was valued at Rs 194 crore and enables the company to expand beyond Delhi-NCR. Signature Global will…",
-   "tags": []
-  },
-  {
-   "title": "Sebi lowers margin requirements for agri-derivatives contracts",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-lowers-margin-requirements-for-agri-derivatives-contracts/articleshow/135929718.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-17T14:36:13Z",
-   "summary": "The Securities and Exchange Board of India has decided to lower the minimum margin requirements for agricultural commodities, reducing the initial margin to between 6% and 10%. This adjustment aims to align the margin…",
-   "tags": []
-  },
-  {
-   "title": "BP launches offer to buy back up to $6 billion of bonds",
-   "link": "https://economictimes.indiatimes.com/markets/bonds/bp-launches-offer-to-buy-back-up-to-6-billion-of-bonds/articleshow/135929675.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-17T14:34:57Z",
-   "summary": "BP is poised to execute a bond buyback strategy worth $6 billion, aiming to enhance its cash management. With oil price volatility in mind, the company is focused on maintaining a disciplined balance sheet. The bonds…",
-   "tags": [
-    "Oil"
-   ]
-  },
-  {
-   "title": "K Raheja Corp inks joint development agreement for 165-acre township in Mumbai region",
-   "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/k-raheja-corp-inks-joint-development-agreement-for-165-acre-township-in-mumbai-region/articleshow/135929507.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-17T14:33:25Z",
-   "summary": "K Raheja Corp has partnered with landowners to develop a large township in the Mumbai Metropolitan Region. This joint development agreement covers a substantial 165-acre land parcel located at Panvel. According to CRE…",
-   "tags": []
-  },
-  {
-   "title": "BlackRock raises its stake in Axis Bank to 5%",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/news/blackrock-raises-its-stake-in-axis-bank-to-5/articleshow/135929469.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-17T14:28:06Z",
-   "summary": "BlackRock has successfully increased its stake in Axis Bank to 5 per cent by acquiring more shares from the open market. Specifically, the investment giant procured 18,560 crore additional shares, nudging its ownership…",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "How new US chip restrictions on South East Asia will hit China",
-   "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Global",
-   "published": "2026-11-17T14:25:45Z",
-   "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
-   "tags": []
-  },
-  {
-   "title": "Sebi aligns margin requirements for agri, non-agri commodity derivatives",
-   "link": "https://www.livemint.com/market/commodities/sebi-aligns-margin-requirements-for-agri-non-agri-commodity-derivatives-11794920785221.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-17T14:22:19Z",
-   "summary": "The regulator has aligned margins for agricultural and non-agricultural commodities across volatility categories, effective 1 December.",
-   "tags": []
-  },
-  {
-   "title": "Urban Company's ₹2,500-crore QIP oversubscribed 6 times, attracts ₹15,300 crore in bids: Report",
-   "link": "https://www.livemint.com/market/stock-market-news/urban-companys-rs-2-500-crore-qip-oversubscribed-6-times-attracts-rs-15-300-crore-in-bids-report-11794923606837.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-17T14:07:25Z",
-   "summary": "Urban Company's ₹2,500-crore QIP reportedly attracted bids of around ₹15,300 crore, nearly six times the issue size, from domestic and global investors. The fundraising comes amid intensifying competition in home…",
-   "tags": []
-  },
-  {
-   "title": "Stock markets rally second day on foreign fund inflows, moderate crude oil prices",
-   "link": "https://www.thehindu.com/business/markets/stock-markets-rally-second-day-on-foreign-fund-inflows-moderate-crude-oil-prices/article71711576.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-17T13:27:29Z",
-   "summary": "The 30-share BSE Sensex rallied 427.40 points, or 0.52%, to settle at 82,532.19; during the day, it surged 792.7 points, or 0.96%, to 82,897.49.",
-   "tags": [
-    "Oil",
-    "Equities"
-   ]
-  },
-  {
-   "title": "After IDBI Bank stake buy, now Fairfax set to sell 13.25% stake in IIFL Finance via ₹3,454-crore block deal: Report",
-   "link": "https://www.livemint.com/market/stock-market-news/fairfax-likely-to-sell-13-25-stake-in-iifl-finance-via-rs-3-454-crore-block-deal-report-11794919349807.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-17T13:07:46Z",
-   "summary": "Fairfax Financial plans to sell 13.25% stake in IIFL Finance through a block deal, reportedly offering up to 5.65 crore shares at ₹611 each for about ₹3,454 crore. The sale could help fund Fairfax’s proposed $5.56…",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Dow plunges over 850 points as Nvidia turmoil deepens selloff in AI stocks: Stock Market Highlights",
-   "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-ai-stocks-intel-coreweave-meta-tesla-nvidia-earnings-anthropic-ipo-treasury-fed-rate-treasury-bond-yield-brent-oil-news-17th-november-2026/liveblog/135927419.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-17T13:07:43Z",
-   "summary": "",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Centricity WealthTech launches private clients business for NRIs",
-   "link": "https://economictimes.indiatimes.com/markets/companies/centricity-wealthtech-launches-private-clients-business-for-nris/articleshow/135926555.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-17T12:57:57Z",
-   "summary": "Centricity WealthTech has launched its new global private clients business tailored for NRIs, aspiring to generate roughly Rs 60 crore in revenue by 2027-28. The company aims to elevate this target to an impressive Rs…",
-   "tags": []
-  },
-  {
-   "title": "M3M India to invest Rs 1,650 cr to build luxury homes under Jacob & Co brand in Gurugram",
-   "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/m3m-india-to-invest-rs-1650-cr-to-build-luxury-homes-under-jacob-co-brand-in-gurugram/articleshow/135926381.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-17T12:50:25Z",
-   "summary": "M3M India is set to invest Rs 1,650 crore in the luxurious M3M Jacob & Co Residences, located in the prime Sector 111 on the Dwarka Expressway in Gurugram. This lavish development will feature 120 exclusive apartments,…",
-   "tags": []
-  },
-  {
-   "title": "Government must act now or lose Royal Mail, former minister warns",
-   "link": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Global",
-   "published": "2026-11-17T12:43:07Z",
-   "summary": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\".",
    "tags": []
   }
  ]
