@@ -1,7 +1,69 @@
 {
- "generated": "2026-11-20T19:06:08Z",
+ "generated": "2026-11-20T21:54:51Z",
  "errors": [],
  "items": [
+  {
+   "title": "Federal Reserve announces College Fed Challenge winners",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+   "source": "Federal Reserve",
+   "category": "Central banks",
+   "published": "2026-11-20T21:15:00Z",
+   "summary": "Federal Reserve announces College Fed Challenge winners",
+   "tags": [
+    "Fed"
+   ]
+  },
+  {
+   "title": "Trump threatens ban on US firms building AI data centres overseas",
+   "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-20T20:54:12Z",
+   "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+   "tags": []
+  },
+  {
+   "title": "Asset-Backed Debt Sales Top Post-GFC Record on AI Strength",
+   "link": "https://www.livemint.com/market/assetbacked-debt-sales-top-post-gfc-record-on-ai-strength-11795205853665.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-20T20:17:33Z",
+   "summary": "Sales of asset-backed securities have surpassed their highest level since the Great Financial Crisis for a third straight year, as builders of artificial intelligence infrastructure continue to tap markets for financing…",
+   "tags": []
+  },
+  {
+   "title": "Dollar weaker as Fed-fueled rally stalls; lower US yields help yen",
+   "link": "https://www.livemint.com/market/dollar-weaker-as-fed-fueled-rally-stalls-lower-us-yields-help-yen-11795205355081.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-20T20:09:14Z",
+   "summary": "GLOBAL-FOREX:Dollar weaker as Fed-fueled rally stalls; lower US yields help yen",
+   "tags": [
+    "FX"
+   ]
+  },
+  {
+   "title": "AI tech rout prompts US investors to rush into value stocks",
+   "link": "https://www.livemint.com/market/ai-tech-rout-prompts-us-investors-to-rush-into-value-stocks-11795205292642.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-20T20:08:12Z",
+   "summary": "USA-STOCKS/VALUE (GRAPHICS):AI tech rout prompts US investors to rush into value stocks",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+   "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-20T20:00:53Z",
+   "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
+   "tags": [
+    "Equities"
+   ]
+  },
   {
    "title": "Wall Street banks set for banner year as Anthropic, SpaceX IPOs generate $1 billion in fees",
    "link": "https://www.livemint.com/market/wall-street-banks-set-for-banner-year-as-anthropic-spacex-ipos-generate-1-billion-in-fees-11795201100809.html",
@@ -10,17 +72,6 @@
    "published": "2026-11-20T18:58:20Z",
    "summary": "ANTHROPIC-IPO/BANK FEES (ANALYSIS):ANALYSIS-Wall Street banks set for banner year as Anthropic, SpaceX IPOs generate $1 billion in fees",
    "tags": []
-  },
-  {
-   "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-   "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Global",
-   "published": "2026-11-20T17:36:29Z",
-   "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
-   "tags": [
-    "Equities"
-   ]
   },
   {
    "title": "Abhishek Manu Singhvi to represent Venu Srinivasan in property dispute with daughter",
@@ -300,7 +351,7 @@
    ]
   },
   {
-   "title": "Nasdaq tumbles over 3% as AI trade concerns spur safe-haven bid: Stock Market Live Updates",
+   "title": "Nasdaq crashes 5% at close, erasing 2026 gains; S&P 500, Dow in correction: Stock Market Highlights",
    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-meta-tesla-anthropic-claude-nvidia-micron-meta-ai-stocks-fed-rate-hike-inflation-treasury-yield-news-20th-november-2026/liveblog/136028991.cms",
    "source": "Economic Times – Markets",
    "category": "India",
@@ -4026,55 +4077,6 @@
    "tags": [
     "Equities"
    ]
-  },
-  {
-   "title": "Jensen Huang and wife moved $10.5 billion in Nvidia shares to family trust eight months before alleged affairs surfaced",
-   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/jensen-huang-and-wife-moved-10-5-billion-in-nvidia-shares-to-family-trust-eight-months-before-alleged-affairs-surfaced/articleshow/135976221.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-18T03:45:43Z",
-   "summary": "Ex-Nvidia CEO Jensen Huang and his wife Lori transferred over 59 million shares to a family trust. The transfer is valued at more than $10.5 billion, coinciding with the end of prior GRATS. Allegations of multiple…",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Tata Motors among 5 stocks closing above 200-DMA",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-among-5-stocks-closing-above-200-dma/slideshow/135947686.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-18T03:41:13Z",
-   "summary": "Five Nifty500 stocks gained over 3% and closed above their respective 200-day moving averages on November 17, according to StockEdge’s technical scan, signalling a potential shift in their broader price trends.",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Where could IRFC share price potentially be in the next 5 years?",
-   "link": "https://www.livemint.com/market/stock-market-news/irfc-share-price-irfc-stock-price-irfc-q2-results-11794914512697.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-18T03:30:17Z",
-   "summary": "IRFC's prospects over the next five years will largely depend on how successfully it expands beyond traditional railway financing while maintaining low borrowing costs and asset quality.",
-   "tags": []
-  },
-  {
-   "title": "Waymo pulls driverless taxis from all US freeways",
-   "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Global",
-   "published": "2026-11-18T03:07:22Z",
-   "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
-   "tags": []
-  },
-  {
-   "title": "ICICI Bank Share Price Highlights: ICICI Bank Stock Price History",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-today-live-18-nov-2026/liveblog/135946776.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-18T03:00:06Z",
-   "summary": "",
-   "tags": []
   }
  ]
 }
