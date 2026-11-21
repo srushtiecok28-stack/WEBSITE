@@ -1,7 +1,40 @@
 {
- "generated": "2026-11-21T01:17:24Z",
- "errors": [],
+ "generated": "2026-11-21T03:58:05Z",
+ "errors": [
+  "Federal Reserve: HTTPError"
+ ],
  "items": [
+  {
+   "title": "What does EPFO’s Systematic Withdrawal Plan for entail for retirees | Explained",
+   "link": "https://www.thehindu.com/business/Economy/what-does-epfos-systematic-withdrawal-plan-for-entail-for-retirees-explained/article71727225.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-21T03:51:15Z",
+   "summary": "As per the proposed SWP, upon retirement or superannuation, a member will have several options to receive the accumulated PF corpus or a part through periodic withdrawals instead of a lump-sum withdrawal",
+   "tags": []
+  },
+  {
+   "title": "Nasdaq 100 sinks 5.6% in worst week since Covid, S&P 500 corrects to 3.7% as investors sell off AI, tech stocks",
+   "link": "https://www.livemint.com/market/stock-market-news/us-stock-markets-nasdaq-100-5-6-pc-worst-week-since-covid-2020-s-p-500-3-7-pc-correction-investors-sell-off-ai-tech-11795223650589.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-21T01:36:43Z",
+   "summary": "AI investment concerns triggered a broad selloff, pushing the S&amp;P 500 into correction territory and the Nasdaq 100 to its worst week since March 2020. The sharp market pullback reflected worries about slowing…",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "Five pharma CDMO stocks with robust revenue growth in Q2FY27",
+   "link": "https://www.livemint.com/market/stock-market-news/best-pharma-cdmo-stocks-china-plus-one-pharma-stocks-india-pharma-stocks-top-pharma-cdmo-stocks-11795178604521.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-21T01:30:28Z",
+   "summary": "Discover five CDMO stocks demonstrating strong growth momentum in Q2FY27, backed by rising revenues and expanding opportunities.",
+   "tags": [
+    "Equities"
+   ]
+  },
   {
    "title": "Best 3 stocks to buy under ₹200: Jammu and Kashmir Bank, Canara Bank, Bank of India by Mehul Kothari of Anand Rathi",
    "link": "https://www.livemint.com/market/stock-market-news/best-3-stocks-to-buy-under-rs-200-jammu-and-kashmir-bank-canara-bank-bank-of-india-by-mehul-kothari-of-anand-rathi-11795191036501.html",
@@ -97,6 +130,15 @@
    "tags": [
     "Equities"
    ]
+  },
+  {
+   "title": "Infra push and low base effect pushes core sector growth to series-high of 10.9% in October 2026",
+   "link": "https://www.thehindu.com/business/Economy/infra-push-and-low-base-effect-pushes-core-sector-growth-to-series-high-in-october-2026/article71724481.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-20T19:48:11Z",
+   "summary": "While the coal and electricity sectors saw growth shoot up, a large part of this was due to a statistical effect rather than growth in actual output. On the other hand, fuel-related sectors contracted again",
+   "tags": []
   },
   {
    "title": "Wall Street banks set for banner year as Anthropic, SpaceX IPOs generate $1 billion in fees",
@@ -253,15 +295,6 @@
    "category": "India",
    "published": "2026-11-20T15:28:12Z",
    "summary": "VAI is one of the three classifications, the U.S. FDA issues implying objectionable conditions or practices were found, during the inspection, but the regulator is not prepared to take or recommend any administrative or…",
-   "tags": []
-  },
-  {
-   "title": "Infra push and low base effect pushes core sector growth to series-high of 10.9% in October 2026",
-   "link": "https://www.thehindu.com/business/Industry/infra-push-and-low-base-effect-pushes-core-sector-growth-to-series-high-in-october-2026/article71724481.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-20T15:26:20Z",
-   "summary": "While the coal and electricity sectors saw growth shoot up, a large part of this was due to a statistical effect rather than growth in actual output. On the other hand, fuel-related sectors contracted again",
    "tags": []
   },
   {
@@ -4042,41 +4075,6 @@
    "category": "India",
    "published": "2026-11-18T04:45:21Z",
    "summary": "TCS shares fell more than 1% on Wednesday amid broader market weakness, despite strong September-quarter results. Profit rose 15% year on year and revenue increased 11.22%. AI revenue reached $3.1 billion, while the…",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Rupee rises 24 paise to 93.27 against U.S. dollar in early trade",
-   "link": "https://www.thehindu.com/business/markets/rupee-vs-dollar-on-november-18-2026-forex-markets/article71714482.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-18T04:23:14Z",
-   "summary": "Forex traders said the appreciation in the rupee was primarily fuelled by a steep overnight drop in Brent crude oil prices, which eases India's import bill and inflation concerns",
-   "tags": [
-    "Inflation",
-    "FX",
-    "Oil"
-   ]
-  },
-  {
-   "title": "Tata Chemicals among 4 stocks that show RSI Trending Up",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-chemicals-among-4-stocks-that-show-rsi-trending-up/slideshow/135948695.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-18T04:17:00Z",
-   "summary": "“RSI trending up” means that the Relative Strength Index (RSI) values are increasing, indicating strengthening momentum in the stock's price. The RSI is a technical indicator commonly used by traders to assess price…",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "IIFL Finance share price: NBFC stock jumps 6% after ₹3,454 cr block deal: Why is Fairfax selling entire 13.25% stake?",
-   "link": "https://www.livemint.com/market/stock-market-news/iifl-finance-share-price-nbfc-stock-jumps-6-after-rs-3-454-cr-block-deal-why-is-fairfax-selling-entire-13-25-stake-11794973879183.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-18T04:13:33Z",
-   "summary": "Fairfax Financial reportedly sold its entire 13.25% stake in IIFL Finance for about ₹3,454 crore, with shares rising as much as 6.4% after news of the block deal. The sale is expected to help fund Fairfax’s proposed…",
    "tags": [
     "Equities"
    ]
