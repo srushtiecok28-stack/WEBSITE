@@ -1,7 +1,58 @@
 {
- "generated": "2026-11-21T09:54:02Z",
+ "generated": "2026-11-21T13:01:46Z",
  "errors": [],
  "items": [
+  {
+   "title": "Sessions offer advice on rising energy costs",
+   "link": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-21T12:09:49Z",
+   "summary": "A council is urging people to seek support with rising energy costs on heating this winter.",
+   "tags": []
+  },
+  {
+   "title": "PSU vs Private banks: Who is powering Nifty Bank's record-high rally after 5% surge? SBI, HDFC, AU, Canara target price",
+   "link": "https://www.livemint.com/market/stock-market-news/psu-vs-private-banks-who-is-powering-nifty-banks-record-high-rally-after-5-surge-sbi-hdfc-au-canara-target-price-11795255387777.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-21T11:30:51Z",
+   "summary": "Banking stocks led the November market rally, with Nifty Bank rising around 16% month-to-date to a record intraday high of 64,485 on November 20. PSU and private bank indexes also advanced sharply, while brokerages…",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "Gold, silver price crash: DSP Mutual Fund turns bullish on bullion, reveals new buying strategy; check price levels",
+   "link": "https://www.livemint.com/market/commodities/gold-silver-price-crash-dsp-mutual-fund-turns-bullish-on-bullion-reveals-new-buying-strategy-check-price-levels-11795252615511.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-21T11:20:08Z",
+   "summary": "Gold prices plunged to a 14-month low, recording their steepest weekly decline in eight months amid interest-rate concerns and an AI-stock selloff. DSP Mutual Fund is gradually buying gold and silver as prices fall,…",
+   "tags": [
+    "Gold"
+   ]
+  },
+  {
+   "title": "Mahanadi CoalFields IPO GMP Check: Down 92% from ₹9.25 to ₹0.7, issue struggles to attract bids- Subscribe or avoid?",
+   "link": "https://www.livemint.com/market/ipo/mahanadi-coalfields-ipo-gmp-check-down-92-from-rs-9-25-to-rs-0-7-issue-struggles-to-attract-bids-subscribe-or-avoid-11795252154826.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-21T10:26:10Z",
+   "summary": "Mahanadi Coalfields’ ₹8,981 crore IPO remained undersubscribed after two days, while its grey-market premium plunged 92% to ₹0.70, implying just 0.51% potential listing gains. Brokerages remain positive on its…",
+   "tags": []
+  },
+  {
+   "title": "Taiwan Widens Short Sale Curbs After Shares Plunge on AI Concern",
+   "link": "https://www.livemint.com/market/taiwan-widens-short-sale-curbs-after-shares-plunge-on-ai-concern-11795255471195.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-21T10:04:30Z",
+   "summary": "Taiwan widened curbs on short sales of local stocks and said it has been buying shares, stepping up efforts to revive confidence after the island’s benchmark index had its worst weekly fall in 35 years.",
+   "tags": [
+    "Equities"
+   ]
+  },
   {
    "title": "Hindalco vs NALCO vs Vedanta Aluminium vs Hindustan Zinc: Which metal stocks to buy for good returns? Target, SL",
    "link": "https://www.livemint.com/market/stock-market-news/hindalco-vs-nalco-vs-vedanta-aluminium-vs-hindustan-zinc-which-metal-stocks-to-buy-for-good-returns-target-sl-11795248944730.html",
@@ -9,6 +60,17 @@
    "category": "India",
    "published": "2026-11-21T09:47:13Z",
    "summary": "Metal stocks including Hindalco, NALCO, Vedanta Aluminium and Hindustan Zinc came under pressure as base metal prices fell. Systematix remained positive on the companies, citing earnings growth, and named Vedanta…",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "Nifty eyes 26,200 as rally strengthens; 6 sectors signal outperformance",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-eyes-26200-as-rally-strengthens-6-sectors-signal-outperformance/articleshow/136050218.cms",
+   "source": "Economic Times – Markets",
+   "category": "India",
+   "published": "2026-11-21T09:39:05Z",
+   "summary": "Nifty surged 2.61% last week, gaining 656 points amid strong FII inflows and improving technical indicators. Resistance lies at 25,950–26,200, while banking, IT and financial services lead sectoral momentum. Analysts…",
    "tags": [
     "Equities"
    ]
@@ -41,6 +103,15 @@
    "tags": [
     "Equities"
    ]
+  },
+  {
+   "title": "What does EPFO’s Systematic Withdrawal Plan entail for retirees | Explained",
+   "link": "https://www.thehindu.com/business/Economy/what-does-epfos-systematic-withdrawal-plan-for-entail-for-retirees-explained/article71727225.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-21T07:39:47Z",
+   "summary": "As per the proposed SWP, upon retirement or superannuation, a member will have several options to receive the accumulated PF corpus or a part through periodic withdrawals instead of a lump-sum withdrawal",
+   "tags": []
   },
   {
    "title": "Stocks to buy: HSBC lists 19 Indian stocks that saw FY27 earnings upgrades, check target prices",
@@ -214,15 +285,6 @@
    "tags": [
     "Equities"
    ]
-  },
-  {
-   "title": "What does EPFO’s Systematic Withdrawal Plan entail for retirees | Explained",
-   "link": "https://www.thehindu.com/business/Economy/what-does-epfos-systematic-withdrawal-plan-for-entail-for-retirees-explained/article71727225.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-21T05:00:03Z",
-   "summary": "As per the proposed SWP, upon retirement or superannuation, a member will have several options to receive the accumulated PF corpus or a part through periodic withdrawals instead of a lump-sum withdrawal",
-   "tags": []
   },
   {
    "title": "Missed 50% rally in Samvardhana Motherson? Choice's Sumeet Bagadia spots another buying opportunity | Target, stop loss",
@@ -4019,66 +4081,6 @@
    "published": "2026-11-18T09:00:00Z",
    "summary": "",
    "tags": []
-  },
-  {
-   "title": "Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook",
-   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
-   "source": "ECB",
-   "category": "Central banks",
-   "published": "2026-11-18T09:00:00Z",
-   "summary": "",
-   "tags": []
-  },
-  {
-   "title": "MP urges council to speed up heating oil payments",
-   "link": "https://www.bbc.co.uk/news/articles/cm792dqz4qvyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Global",
-   "published": "2026-11-18T08:48:26Z",
-   "summary": "About 23,000 households use heating oil in Northumberland and face increasing bills this winter.",
-   "tags": []
-  },
-  {
-   "title": "Security flaw found in Java, world's third-largest programming language",
-   "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Global",
-   "published": "2026-11-18T08:47:06Z",
-   "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
-   "tags": []
-  },
-  {
-   "title": "NSE uses equity option script to up ante in commodity F&O",
-   "link": "https://www.livemint.com/market/commodities/nse-mcx-commodity-options-market-share-crude-oil-expiry-11794985120018.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-18T08:45:33Z",
-   "summary": "Change of expiry day for Sensex options pioneered by BSE in May 2023 for market share gain, used by rival NSE in energy options to compete with leader MCX&nbsp;",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Angel One, 5paisa, BSE and other capital market stocks slide up to 3% as SEBI weighs MTF curbs; Is the MTF party over?",
-   "link": "https://www.livemint.com/market/stock-market-news/angel-one-5paisa-bse-and-other-capital-market-stocks-slide-up-to-3-as-sebi-weighs-mtf-curbs-is-the-mtf-party-over-11794988829405.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-18T08:43:23Z",
-   "summary": "Shares of SMC Global Securities, Anand Rathi Share and Stock Brokers, 5paisa Capital, Angel One and BSE fell up to 3% amid reports that SEBI is considering limits on leveraged stock purchases. Proposed restrictions…",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Metal stocks to buy! APL Apollo Tubes, Hindalco: Axis Sec lists 2 conviction picks post Q2 results 2026; check targets",
-   "link": "https://www.livemint.com/market/metal-stocks-to-buy-apl-apollo-tubes-hindalco-axis-sec-lists-2-conviction-picks-post-q2-results-2026-check-targets-11794986876146.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-18T08:36:51Z",
-   "summary": "Axis Securities has named APL Apollo Tubes and Hindalco Industries its top metal-stock picks, assigning both Buy ratings with targets of ₹2,500 and ₹1,060, respectively. It cites growth prospects, value-added products,…",
-   "tags": [
-    "Equities"
-   ]
   }
  ]
 }
