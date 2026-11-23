@@ -1,7 +1,105 @@
 {
- "generated": "2026-11-23T19:09:34Z",
+ "generated": "2026-11-23T21:58:18Z",
  "errors": [],
  "items": [
+  {
+   "title": "Nvidia’s 31% Surge Exposes Wall Street’s Growing Stock Trap",
+   "link": "https://www.livemint.com/market/nvidias-31-surge-exposes-wall-street-s-growing-stock-trap-11795470573054.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-23T21:49:32Z",
+   "summary": "Monday’s spectacular stock rebound exposes the latest trap facing investors in a market dominated by a handful of technology giants: Selling them offers protection when markets plunge, but risks missing the recovery.",
+   "tags": []
+  },
+  {
+   "title": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
+   "link": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-23T21:40:30Z",
+   "summary": "The BBC's business correspondent Michelle Fleury explains what role Trump's support played in Huang's comeback.",
+   "tags": []
+  },
+  {
+   "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+   "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-23T21:23:42Z",
+   "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "Gold Rebounds as Huang’s Return to Nvidia Revives Risk Appetite",
+   "link": "https://www.livemint.com/market/gold-rebounds-as-huang-s-return-to-nvidia-revives-risk-appetite-11795469022718.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-23T21:23:42Z",
+   "summary": "Gold extended its rebound in a broad risk-on rally triggered by the reinstatement of Jensen Huang as chief executive officer of Nvidia Corp.",
+   "tags": [
+    "Gold"
+   ]
+  },
+  {
+   "title": "Credit Fear Gauge Drops as Huang’s Return Boosts AI Hopes",
+   "link": "https://www.livemint.com/market/credit-fear-gauge-drops-as-huang-s-return-boosts-ai-hopes-11795467289630.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-23T20:54:49Z",
+   "summary": "Corporate-debt markets rallied globally on Monday, with US fear gauges improving the most in months and technology firms’ bonds rebounding after Nvidia Corp.’s board reinstated Jensen Huang as chief executive officer.",
+   "tags": []
+  },
+  {
+   "title": "Taiwan Meets With TSMC, Financial Firms in Bid to Calm Markets",
+   "link": "https://www.livemint.com/market/taiwan-meets-with-tsmc-financial-firms-in-bid-to-calm-markets-11795466488909.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-23T20:41:28Z",
+   "summary": "Taiwan Premier Cho Jung-tai met with executives from tech companies including Taiwan Semiconductor Manufacturing Co. and the island’s biggest financial firms — a rare move aimed at calming jittery investors.",
+   "tags": []
+  },
+  {
+   "title": "Nvidia’s Big Rebound Hammers Leveraged Funds Betting on a Fall",
+   "link": "https://www.livemint.com/market/nvidias-big-rebound-hammers-leveraged-funds-betting-on-a-fall-11795466061291.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-23T20:34:20Z",
+   "summary": "For investors betting against Nvidia Corp., Monday’s big rebound turned a lucrative wager into a financial wrecking ball.",
+   "tags": []
+  },
+  {
+   "title": "Anthropic Shares Climb With AI Trade Rally on Huang’s Return",
+   "link": "https://www.livemint.com/market/anthropic-shares-climb-with-ai-trade-rally-on-huang-s-return-11795462011780.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-23T19:26:51Z",
+   "summary": "Anthropic PBC shares turned positive Monday, bringing the artificial intelligence lab in line with the rest of the sector’s rebound following the reinstatement of Nvidia Corp.’s Jensen Huang.",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "Gold rises as bargain hunters step in after steep weekly drop",
+   "link": "https://www.livemint.com/market/gold-rises-as-bargain-hunters-step-in-after-steep-weekly-drop-11795461578266.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-23T19:19:37Z",
+   "summary": "GLOBAL-PRECIOUS:Gold rises as bargain hunters step in after steep weekly drop",
+   "tags": [
+    "Gold"
+   ]
+  },
+  {
+   "title": "Oil falls around 3% on increased Middle East flows, Libyan pipeline restart",
+   "link": "https://www.livemint.com/market/oil-falls-around-3-on-increased-middle-east-flows-libyan-pipeline-restart-11795461389950.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-23T19:16:29Z",
+   "summary": "GLOBAL-OIL:Oil falls around 3% on increased Middle East flows, Libyan pipeline restart",
+   "tags": []
+  },
   {
    "title": "Chicago soybeans higher on meal demand; wheat gains on supply concerns",
    "link": "https://www.livemint.com/market/chicago-soybeans-higher-on-meal-demand-wheat-gains-on-supply-concerns-11795459844011.html",
@@ -74,17 +172,6 @@
    "category": "India",
    "published": "2026-11-23T17:54:35Z",
    "summary": "Nvidia shares surged after the board reinstated Jensen Huang as CEO, lifting AI and semiconductor stocks and helping push the Nasdaq toward its biggest one-day gain since April 2025. The board said it was confident…",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns",
-   "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Global",
-   "published": "2026-11-23T17:42:37Z",
-   "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 7%.",
    "tags": [
     "Equities"
    ]
@@ -370,7 +457,7 @@
    "tags": []
   },
   {
-   "title": "US stocks roar back as Jensen Huang returns to Nvidia as CEO; Nasdaq up 6%, S&P 5%, Dow 3.5%: Stock Market Live Updates",
+   "title": "Nasdaq surges 6%, Dow soars 1,400 pts as markets rebound on Huang’s return: Stock Market Live Updates",
    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-meta-anthropic-amd-micron-tesla-ai-chip-earnings-fed-rate-treasury-yield-news-23rd-november-2026/liveblog/136104474.cms",
    "source": "Economic Times – Markets",
    "category": "India",
@@ -3976,105 +4063,6 @@
    "tags": [
     "Equities"
    ]
-  },
-  {
-   "title": "Gold set for worst week since March as rate-hike expectations grow",
-   "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-set-for-worst-week-since-march-as-rate-hike-expectations-grow/articleshow/136009768.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-20T01:45:04Z",
-   "summary": "Gold prices plummeted on Friday, recording their most significant weekly dip since March, driven by a strengthening US dollar. This shift caused investors to adjust their forecasts about a possible interest rate…",
-   "tags": [
-    "Rates",
-    "FX",
-    "Gold"
-   ]
-  },
-  {
-   "title": "Stock Market Live Updates: Sensex bucks Asia's trend, zooms 950 pts; Nifty Bank hits fresh high",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-paytm-coal-india-share-price-20-november-2026/liveblog/136009816.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-20T01:42:55Z",
-   "summary": "",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Stock market outlook today,20 Nov:Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
-   "link": "https://www.livemint.com/market/stock-market-outlook-today-20-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-cues-11795135137736.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-20T01:13:18Z",
-   "summary": "Indian markets may open lower on Friday as Asian shares fell amid a global technology selloff. The weak outlook follows Thursday’s strong rebound, when the Sensex rose 1.21% and the Nifty gained 1.14%, closing at…",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Global Market Today: Asian stocks slide as AI fears trigger selloff",
-   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-slide-as-ai-fears-trigger-selloff/articleshow/136009259.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-20T01:02:17Z",
-   "summary": "MSCI Inc.’s Asia Pacific equities index fell 1%, extending its decline to a seventh straight session. That pushed the MSCI All Country World Index — a key barometer of global stocks — on course for its longest losing…",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Anthropic shares surge 34% in Nasdaq debut, valuation hits $2 trillion",
-   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/2-trillion-anthropic-soars-34-on-wall-street-debut/articleshow/136009222.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-20T00:57:11Z",
-   "summary": "Anthropic made a significant market debut on Nasdaq, with shares opening at $111.50, up from $83. The company raised a remarkable $81.3 billion through the sale of 980 million shares to investors. This listing positions…",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Anthropic's historic debut to put AI's promise and peril on Wall Street trial",
-   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-historic-debut-to-put-ais-promise-and-peril-on-wall-street-trial/articleshow/136009180.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-20T00:48:29Z",
-   "summary": "The strong demand for Anthropic shares amid a broader tech selloff offers hope to a sectorwhere euphoria has somewhat cooled in recent weeks.",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Raja Venkatraman recommends three stocks for 20 November",
-   "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-20-november-11795135114570.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-20T00:45:52Z",
-   "summary": "Market expert Raja Venkatraman shares his top stock picks for 20 November. Here’s his technical outlook and trade strategy.",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "M&M, Bank of Baroda shares: Top 2 stocks to buy; check expected returns, ratings, target price by Chandan Taparia",
-   "link": "https://www.livemint.com/market/stock-market-news/mm-bank-of-baroda-shares-top-2-stocks-to-buy-check-expected-returns-ratings-target-price-by-chandan-taparia-11795100891827.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-20T00:33:20Z",
-   "summary": "The Sensex and Nifty reached nine-month closing highs as foreign inflows and easing commodity prices supported a broad market rally. Banking, auto and FMCG stocks advanced. Motilal Oswal’s Chandan Taparia suggested…",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Record FPI buying returns, but foreign investors are still picking their spots",
-   "link": "https://www.livemint.com/market/record-fpi-buying-returns-but-foreign-investors-are-still-picking-their-spots-11795089128507.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-20T00:30:49Z",
-   "summary": "Financial services account for half of November's inflows as foreign investors rebuild positions in large-caps, while concerns over earnings trajectory and macroeconomic risks cloud the outlook.",
-   "tags": []
   }
  ]
 }
