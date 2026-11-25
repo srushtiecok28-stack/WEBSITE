@@ -1,14 +1,231 @@
 {
- "generated": "2026-11-25T13:29:45Z",
+ "generated": "2026-11-25T16:17:28Z",
  "errors": [],
  "items": [
   {
-   "title": "'I'm not looking forward to energy price increase,' says student",
+   "title": "BP ropes in Wipro to transform its core finance operations",
+   "link": "https://www.thehindu.com/business/Industry/bp-ropes-in-wipro-to-transform-its-core-finance-operations/article71742656.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-25T16:10:54Z",
+   "summary": "Under this collaboration, around 3,000 bp employees supporting finance operations across India, Hungary and Malaysia would transition to Wipro",
+   "tags": []
+  },
+  {
+   "title": "Alembic Pharma gets U.S. FDA nod for additional strength of cancer drug",
+   "link": "https://www.thehindu.com/business/Industry/alembic-pharma-gets-us-fda-nod-for-additional-strength-of-cancer-drug/article71743591.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-25T16:10:52Z",
+   "summary": "",
+   "tags": []
+  },
+  {
+   "title": "US stocks fall further as fears over AI intensify",
+   "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-25T16:07:26Z",
+   "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "Energy price increase 'could put me in hospital'",
+   "link": "https://www.bbc.co.uk/news/articles/cm5y1g42x2wzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-25T16:06:25Z",
+   "summary": "People on Teesside share their views on the news energy bills are expected to increase by 26%.",
+   "tags": []
+  },
+  {
+   "title": "Poundland collapses putting 11,000 jobs at risk",
+   "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-25T16:03:07Z",
+   "summary": "The discount chain has collapsed into administration after its owners failed to find a buyer.",
+   "tags": []
+  },
+  {
+   "title": "IRDAI health panel forms 2 study groups to enhance transparency in claims",
+   "link": "https://www.thehindu.com/business/Industry/irdai-health-panel-forms-2-study-groups-to-enhance-transparency-in-claims/article71743517.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-25T16:01:45Z",
+   "summary": "The formation of the two groups by the IAC (Insurance Advisory Committee) Sub-Committee on Health Insurance comes in the backdrop of expanding health insurance coverage.",
+   "tags": []
+  },
+  {
+   "title": "Broad-based pressure on food prices continues: RBI Bulletin",
+   "link": "https://www.thehindu.com/business/Economy/broad-based-pressure-on-food-prices-continues-rbi-bulletin/article71743566.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-25T15:56:15Z",
+   "summary": "CPI inflation peaked to 6.1 % (y-o-y) in October 2026 from 5.5% in September 2026, slightly above the upper tolerance level of 6%–last observed in October 2024.",
+   "tags": [
+    "Inflation",
+    "RBI"
+   ]
+  },
+  {
+   "title": "SEBI eases KYC norms, simplifies client onboarding",
+   "link": "https://www.thehindu.com/business/sebi-eases-kyc-norms-simplifies-client-onboarding/article71743597.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-25T15:51:21Z",
+   "summary": "SEBI said that verification of a client's mobile number will be optional for an intermediary if the number available in the KRA system has already been verified and tagged as Aadhaar-seeded",
+   "tags": []
+  },
+  {
+   "title": "Net FDI fell to more than 5.5-year low in September 2026, as outflows jumped 40%",
+   "link": "https://www.thehindu.com/business/Economy/net-fdi-fell-to-more-than-55-year-low-in-september-2026-as-outflows-jumped-40/article71742778.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-25T15:41:09Z",
+   "summary": "Despite September’s performance, net FDI in the first half of the financial year was more than 20% higher than in the same period last year",
+   "tags": []
+  },
+  {
+   "title": "Nifty recovers Monday's losses, moves within reach of record high",
+   "link": "https://www.livemint.com/market/nifty-recovers-mondays-losses-moves-within-reach-of-record-high-11795608442767.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-25T15:18:49Z",
+   "summary": "Indian equities have emerged as Asia's best-performing market this month, with the Nifty 50 gaining 12% as foreign investors poured nearly $15 billion into domestic stocks.",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "Duty-free raw sugar imports up to 10 lakh tonnes allowed till March 2027",
+   "link": "https://www.thehindu.com/business/Economy/duty-free-raw-sugar-imports-up-to-10-lakh-tonnes-allowed-till-march-2027/article71742301.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-25T15:13:58Z",
+   "summary": "The industry expects more imports in the coming days and this will ensure supply of adequate quantity of sugar in the domestic market throughout the sugar season.",
+   "tags": []
+  },
+  {
+   "title": "Nvidia stock loses momentum after Huang's return as CEO, down another 9%; why are investors dumping AI stocks again?",
+   "link": "https://www.livemint.com/market/stock-market-news/nvidia-stock-loses-momentum-after-huangs-return-as-ceo-down-another-9-why-are-investors-dumping-ai-stocks-again-11795618514162.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-25T15:13:42Z",
+   "summary": "Nvidia shares fell 9% at Wednesday’s open, extending a two-day decline to 14.5% as investors weighed rising AI infrastructure costs, higher borrowing costs, governance uncertainty and potential regulation.&nbsp;",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "Carlyle pares 7.4% stake in Piramal Pharma for over Rs 2,211 crore",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/carlyle-pares-7-4-stake-in-piramal-pharma-for-over-rs-2211-crore/articleshow/136165837.cms",
+   "source": "Economic Times – Markets",
+   "category": "India",
+   "published": "2026-11-25T15:02:44Z",
+   "summary": "The Carlyle Group has divested 7.4 percent of its stake in Piramal Pharma through an open market deal, selling approximately 9.86 crore shares at an average rate of Rs 224.17 each. As a result, its stake decreased from…",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "RBI raises share of domestically held gold reserves, data shows",
+   "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-raises-share-of-domestically-held-gold-reserves-data-shows/articleshow/136165807.cms",
+   "source": "Economic Times – Markets",
+   "category": "India",
+   "published": "2026-11-25T15:00:14Z",
+   "summary": "As of September, the Reserve Bank of India has expanded its domestic gold reserves to 880.52 metric tonnes. This figure comprises 740.13 metric tonnes held in the country and 140.39 metric tonnes stored internationally.…",
+   "tags": [
+    "Gold",
+    "RBI"
+   ]
+  },
+  {
+   "title": "US announces new tariffs on host of countries including China",
+   "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-25T14:52:22Z",
+   "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+   "tags": []
+  },
+  {
+   "title": "Three months into the job, Air India CEO Tewolde sets ₹6,000 crore cost-saving target, looks to boost revenues",
+   "link": "https://www.thehindu.com/business/Industry/three-months-into-the-job-air-india-ceo-tewolde-sets-6000-crore-cost-saving-target-looks-to-boost-revenues/article71743179.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-25T14:43:21Z",
+   "summary": "Tewolde Gebremariam said Air India needs to bring its cost per available seat kilometre below its revenue per available seat kilometre, with operating costs currently exceeding revenue",
+   "tags": []
+  },
+  {
+   "title": "Fuel price hike will make life 'almost impossible'",
+   "link": "https://www.bbc.co.uk/news/articles/c6rrgqknw0jlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-25T14:37:44Z",
+   "summary": "The Fuel Bank Foundation says many homes are already cutting back and struggling with bills.",
+   "tags": []
+  },
+  {
+   "title": "Huang’s return restores stability, but NVIDIA faces years of scrutiny, warns Gartner",
+   "link": "https://www.thehindu.com/business/Industry/huangs-return-restores-stability-but-nvidia-faces-years-of-scrutiny-warns-gartner/article71739137.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-25T14:27:38Z",
+   "summary": "In an exclusive conversation with The Hindu, Mr.Gupta noted that the leadership turbulence has permanently altered NVIDIA’s operational landscape, leaving the company exposed to legal, regulatory, and commercial…",
+   "tags": []
+  },
+  {
+   "title": "LG Electronics shares to be in focus as promoter to sell 2% stake to meet public float norms; check details",
+   "link": "https://www.livemint.com/market/lg-electronics-shares-to-be-in-focus-as-promoter-to-sell-2-stake-to-meet-public-float-norms-check-details-11795612944008.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-25T14:01:25Z",
+   "summary": "LG Electronics Inc. plans to sell up to 2% of LG Electronics India through a block deal at a floor price of ₹1,709.30 per share, raising about ₹2,320.5 crore to meet minimum public shareholding rules. The sale would…",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "Stock indices gain 1.85%, rupee surges to 8-month high aided by foreign inflows, low crude prices",
+   "link": "https://www.thehindu.com/business/markets/sensex-jumps-1502-points-nifty-surges-to-25819-on-foreign-fund-inflows-lower-crude-oil/article71742244.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-25T13:52:00Z",
+   "summary": "Investors' wealth went up by ₹3.49 lakh crore to ₹5,12,48,042.08 crore (USD 5.54 trillion) on November 25",
+   "tags": [
+    "FX",
+    "Oil"
+   ]
+  },
+  {
+   "title": "Two in five Indian family offices, UHNIs have engaged with crypto amid regulatory caution",
+   "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/two-in-five-indian-family-offices-uhnis-have-engaged-with-crypto-amid-regulatory-caution/articleshow/136163899.cms",
+   "source": "Economic Times – Markets",
+   "category": "India",
+   "published": "2026-11-25T13:49:47Z",
+   "summary": "Around 41 percent of high-net-worth investors in India are delving into the world of cryptocurrencies and virtual digital assets, despite many only possessing a fundamental comprehension of this evolving landscape.…",
+   "tags": []
+  },
+  {
+   "title": "Energy bills to rise by 26% from January after gas prices surge",
+   "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-25T13:42:08Z",
+   "summary": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
+   "tags": []
+  },
+  {
+   "title": "Why are bills going up?",
    "link": "https://www.bbc.co.uk/news/videos/cm3wg47gnjnno?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "category": "Global",
    "published": "2026-11-25T13:24:29Z",
-   "summary": "Student Isaac told the BBC he and his flatmates have no choice but to keep the heating on 'constantly' due to poor insulation.",
+   "summary": "BBC correspondent Colletta Smith explains the January increase.",
    "tags": []
   },
   {
@@ -21,13 +238,16 @@
    "tags": []
   },
   {
-   "title": "US announces new tariffs on host of countries including China",
-   "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Global",
-   "published": "2026-11-25T13:19:41Z",
-   "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-   "tags": []
+   "title": "RBI net buyer of dollars for fourth straight month in September, data shows",
+   "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-net-buyer-of-dollars-for-fourth-straight-month-in-september-data-shows/articleshow/136163192.cms",
+   "source": "Economic Times – Markets",
+   "category": "India",
+   "published": "2026-11-25T13:19:28Z",
+   "summary": "The Reserve Bank of India recorded net purchases of $6.94 billion in the foreign exchange market during September. It bought a total of $82.18 billion while selling $75.25 billion in currency transactions. Despite a…",
+   "tags": [
+    "FX",
+    "RBI"
+   ]
   },
   {
    "title": "Schaeffler India block deal: Schaeffler AG likely to sell 6% stake at ₹3,400 apiece; deal size ₹3,188 crore: Report",
@@ -46,6 +266,17 @@
    "published": "2026-11-25T13:14:52Z",
    "summary": "A woman already in energy debt says anxiety is \"through the roof\" over further increases.",
    "tags": []
+  },
+  {
+   "title": "US Stock Market Live Updates: Dow Jones plunges 800 pts, Nasdaq over 3% as AI rout intensifies",
+   "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-alphabet-amazon-anthropic-dell-inflation-fed-rate-hike-gold-treasury-yield-news-25th-november-2026/liveblog/136163404.cms",
+   "source": "Economic Times – Markets",
+   "category": "India",
+   "published": "2026-11-25T13:12:55Z",
+   "summary": "",
+   "tags": [
+    "Equities"
+   ]
   },
   {
    "title": "SEBI eases KYC norms, centralises supplementary client data to simplify onboarding",
@@ -89,6 +320,15 @@
    "tags": []
   },
   {
+   "title": "Deloitte India opens Mangaluru office, plans to recruit over 1,000 professionals in next two years",
+   "link": "https://www.thehindu.com/news/cities/Mangalore/deloitte-india-opens-mangaluru-office-plans-to-recruit-over-1000-professionals-in-next-two-years/article71741992.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-25T12:35:49Z",
+   "summary": "Mangaluru office is company’s first office in Karnataka outside Bengaluru and 27th office in India, according to Romal Shetty, CEO, Deolitte South Asia.",
+   "tags": []
+  },
+  {
    "title": "BSE, Eternal, Titan, SBI among 18 Nifty 50 stocks that rallied 10–43% in 2026; what's driving gains?",
    "link": "https://www.livemint.com/market/stock-market-news/bse-eternal-titan-sbi-among-18-nifty-50-stocks-that-rallied-10-43-in-2026-whats-driving-gains-11795607425766.html",
    "source": "Mint – Markets",
@@ -121,18 +361,6 @@
    "tags": [
     "FX",
     "RBI"
-   ]
-  },
-  {
-   "title": "Stock indices gain 1.85%, rupee surges to 8-month high aided by foreign inflows, low crude prices",
-   "link": "https://www.thehindu.com/business/markets/sensex-jumps-1502-points-nifty-surges-to-25819-on-foreign-fund-inflows-lower-crude-oil/article71742244.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-25T12:18:38Z",
-   "summary": "Investors' wealth went up by ₹3.49 lakh crore to ₹5,12,48,042.08 crore (USD 5.54 trillion) on November 25",
-   "tags": [
-    "FX",
-    "Oil"
    ]
   },
   {
@@ -205,15 +433,6 @@
    "tags": []
   },
   {
-   "title": "Energy bills to rise by 26% from January after gas prices surge",
-   "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Global",
-   "published": "2026-11-25T11:44:26Z",
-   "summary": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
-   "tags": []
-  },
-  {
    "title": "AstroTalk says app data collection is for ‘security’, denies profiling users",
    "link": "https://www.thehindu.com/business/Industry/astrotalk-says-app-data-collection-is-for-security-denies-profiling-users/article71741668.ece",
    "source": "The Hindu – Business",
@@ -252,15 +471,6 @@
    "tags": [
     "Equities"
    ]
-  },
-  {
-   "title": "Deloitte India opens Mangaluru office, plans to recruit over 1,000 professionals in next two years",
-   "link": "https://www.thehindu.com/news/cities/Mangalore/deloitte-india-opens-mangaluru-office-plans-to-recruit-over-1000-professionals-in-next-two-years/article71741992.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-25T11:21:08Z",
-   "summary": "Mangaluru office is company’s first office in Karnataka outside Bengaluru and 27th office in India, according to Romal Shetty, CEO, Deolitte South Asia.",
-   "tags": []
   },
   {
    "title": "FSSAI’s pan-India enforcement drive on packaged drinking water, lab test to take 1-2 months: CEO",
@@ -1377,6 +1587,17 @@
    "tags": []
   },
   {
+   "title": "Business Daily",
+   "link": "https://www.bbc.co.uk/sounds/play/w3ct98sy?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-24T21:30:00Z",
+   "summary": "Grant LaFontaine explains how selling Pokémon cards inspired a billion-dollar business",
+   "tags": [
+    "FX"
+   ]
+  },
+  {
    "title": "Nasdaq, S&P 500 end lower as investors assess Jensen Huang's return to Nvidia",
    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-sp-500-end-lower-as-investors-assess-jensen-huangs-return-to-nvidia/articleshow/136141893.cms",
    "source": "Economic Times – Markets",
@@ -1788,6 +2009,15 @@
    "category": "India",
    "published": "2026-11-24T10:33:02Z",
    "summary": "Silver price today in India: The MCX silver rate finished at ₹1,54,205, up ₹6,392 against its previous close of ₹1,47,813/kg",
+   "tags": []
+  },
+  {
+   "title": "The Global Story",
+   "link": "https://www.bbc.co.uk/sounds/play/w3ct8mjk?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-24T10:00:00Z",
+   "summary": "How did the entire global economy become dependent on one man?",
    "tags": []
   },
   {
@@ -3829,242 +4059,6 @@
    "published": "2026-11-22T13:50:21Z",
    "summary": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
    "tags": []
-  },
-  {
-   "title": "52% rally in six months! Mukul Agrawal portfolio’s defence stock has 19% upside, says ICICI Direct - Do you own it?",
-   "link": "https://www.livemint.com/market/stock-market-news/52-rally-in-six-months-mukul-agrawal-portfolio-s-defence-stock-has-19-upside-says-icici-direct-do-you-own-it-11795353943967.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-22T13:48:31Z",
-   "summary": "PTC Industries shares rose 1.01% on Friday, while the stock gained about 23% in three months and 53% in six. ICICI Securities retained its Buy rating and ₹29,000 target, implying 19% upside, citing strong EBITDA growth…",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Trump’s Memecoin Gala Returns With Demand Down and Scrutiny Up",
-   "link": "https://www.livemint.com/market/trumps-memecoin-gala-returns-with-demand-down-and-scrutiny-up-11795353666621.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-22T13:21:06Z",
-   "summary": "The first time Morten Christensen traded his way into a gala with President Donald Trump, it cost him about $1,200. The second time, about $500. This time, he says, he ended up making $6.",
-   "tags": []
-  },
-  {
-   "title": "Stock market outlook: Nifty posts longest weekly winning streak in 5 months; will rally survive next week, Nov 23-27?",
-   "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-nifty-posts-longest-weekly-winning-streak-in-5-months-will-rally-survive-next-week-nov-2327-11795350642959.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-22T13:07:00Z",
-   "summary": "Nifty 50 gained nearly 2.2% for a fourth consecutive winning week, while banking and financial stocks led the rally. Analysts see a positive near-term outlook, with resistance near 26,000 and support around…",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Stock recommendations for 23 November from MarketSmith India",
-   "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-23-november-from-marketsmith-india-11795351438248.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-22T12:53:39Z",
-   "summary": "MarketSmith India reveals its top stock recommendations for today, 23 November. Get expert insights into the best-performing stocks to guide your investment decisions.",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Correction or deeper reckoning? Investors seek signs US stock selling will abate",
-   "link": "https://www.livemint.com/market/correction-or-deeper-reckoning-investors-seek-signs-us-stock-selling-will-abate-11795348893667.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-22T12:01:33Z",
-   "summary": "USA-STOCKS/CORRECTION (ANALYSIS):ANALYSIS-Correction or deeper reckoning? Investors seek signs US stock selling will abate",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Private Credit’s $100 Billion Saudi Prize Is Proving Hard to Win",
-   "link": "https://www.livemint.com/market/private-credit-s-100-billion-saudi-prize-is-proving-hard-to-win-11795348703055.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-22T11:58:22Z",
-   "summary": "Many private credit firms believe Saudi Arabia offers an estimated $100 billion opportunity, potentially helping transform the Middle East into one of the biggest markets for the asset class. But deploying capital at…",
-   "tags": []
-  },
-  {
-   "title": "South Korea prepares market stabilisation funds after KOSPI hits 10-month low",
-   "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/south-korea-prepares-market-stabilisation-funds-after-kospi-hits-10-month-low/articleshow/136073016.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-22T11:45:31Z",
-   "summary": "In response to falling stock indices, South Korea's finance ministry is poised to activate market stabilisation funds. The KOSPI index has plummeted, marking its lowest point in the last ten months. An emergency meeting…",
-   "tags": []
-  },
-  {
-   "title": "India-EU trade pact likely to be signed on December 16",
-   "link": "https://www.thehindu.com/news/national/india-eu-trade-pact-likely-to-be-signed-on-december-16/article71731223.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-22T11:39:31Z",
-   "summary": "European Union's Ambassador to India, Jean-Eric Paquet, recently said the FTA will be signed during PM Modi's visit to Brussels in December, and it will come into force in 2027",
-   "tags": [
-    "FX"
-   ]
-  },
-  {
-   "title": "Must balance ‘economic patriotism’ with cultural heritage: GJC on PM Modi’s call to stop gold purchases",
-   "link": "https://www.thehindu.com/business/must-balance-economic-patriotism-with-cultural-heritage-gjc-on-pm-modis-call-to-stop-gold-purchases/article71423466.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-22T11:23:51Z",
-   "summary": "The All India Gem & Jewellery Domestic Council (GJC) argued that the gold jewellery sector contributes nearly 7-8% to the economy and supports millions of livelihoods",
-   "tags": [
-    "Gold"
-   ]
-  },
-  {
-   "title": "Stock market holiday next week: NSE, BSE to remain closed for Guru Nanak Jayanti on this day – Check details",
-   "link": "https://www.livemint.com/market/stock-market-news/stock-market-holiday-next-week-nse-bse-to-remain-closed-for-guru-nanak-jayanti-on-this-day-november-24-tuesday-11795343116023.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-22T11:12:12Z",
-   "summary": "Stock market holiday next week: Trading on the NSE and BSE will pause Tuesday, November 24, for Prakash Gurpurb Sri Guru Nanak Dev Jayanti.&nbsp;",
-   "tags": []
-  },
-  {
-   "title": "Crude oil futures brace for OPEC+ output decision amid supply glut concerns: Analysts",
-   "link": "https://economictimes.indiatimes.com/markets/commodities/crude-oil-futures-brace-for-opec-output-decision-amid-supply-glut-concerns-analysts/articleshow/136072428.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-22T11:00:27Z",
-   "summary": "Next week promises to be a rollercoaster for crude oil futures as the OPEC+ meeting approaches. Traders are keeping a close eye on supply insights from the American Petroleum Institute and Energy Information…",
-   "tags": [
-    "Oil"
-   ]
-  },
-  {
-   "title": "RVNL vs Texmaco Rail: Which railway stock deserves a place in your portfolio for long-term gains? Check target price",
-   "link": "https://www.livemint.com/market/stock-market-news/rvnl-vs-texmaco-rail-which-railway-stock-deserves-a-place-in-your-portfolio-for-long-term-gains-check-target-price-11795331266376.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-22T10:00:39Z",
-   "summary": "RVNL’s Q2 FY27 profit rose 8.3% year over year, while revenue fell 8.2%. Texmaco Rail’s consolidated profit jumped 73.7%, despite lower revenue and a decline in standalone profit.",
-   "tags": []
-  },
-  {
-   "title": "Gold, copper, aluminium dive to at least 7-month lows",
-   "link": "https://www.thehindu.com/business/gold-copper-aluminium-dive-to-at-least-7-month-lows/article71729065.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-22T09:49:41Z",
-   "summary": "Hawkish commentary from U.S. Fed and concerns over global economic growth have been among the more prominent concerns.",
-   "tags": []
-  },
-  {
-   "title": "New Sebi proposal could flip fates of key men at NSE, BSE",
-   "link": "https://www.livemint.com/market/nse-bse-chief-tenure-rules-sebi-proposal-11795333434935.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-22T09:38:47Z",
-   "summary": "Proposed amendments to tenures of MDs of exchanges revise age-based limit to term-based limit. Ashishkumar Chauhan may be barred from another term at NSE because of his prior service at BSE, while Sundararaman…",
-   "tags": []
-  },
-  {
-   "title": "PBOC Anchors Yuan With Stable Fix as Volatility Jumps After APEC",
-   "link": "https://www.livemint.com/market/pboc-anchors-yuan-with-stable-fix-as-volatility-jumps-after-apec-11795338291477.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-22T09:04:50Z",
-   "summary": "China’s central bank signaled it wants to curb sharp moves in the yuan with a largely steady fixing Friday, after the currency posted its biggest drop since March following a trilateral leaders’ meeting.",
-   "tags": [
-    "FX"
-   ]
-  },
-  {
-   "title": "Anthropic and SpaceX IPOs bring Bitcoin prices down? Is investor money shifting from crypto to AI stocks? What’s next?",
-   "link": "https://www.livemint.com/market/cryptocurrency/anthropic-and-spacex-ipos-bring-bitcoin-prices-down-is-investor-money-shifting-from-crypto-to-ai-stocks-what-s-next-11795334594912.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-22T09:01:28Z",
-   "summary": "Bitcoin and Ether fell sharply before the Anthropic and SpaceX IPOs, raising questions about capital shifting from crypto to stocks. Analysts say the declines also reflect ETF outflows, liquidations and broader risk…",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Adani Group forays into West Bengal’s power sector, Trinamool calls for transparency",
-   "link": "https://www.thehindu.com/news/national/west-bengal/adani-group-forays-into-west-bengals-power-sector-trinamool-calls-for-transparency/article71730885.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-22T08:58:14Z",
-   "summary": "Adani Energy Solutions Ltd. has received a Letter of Award from West Bengal State Electricity Distribution Co. Ltd. for supply of 1,750 MW of Renewable Energy Round-the-Clock power for a period of 25 years",
-   "tags": []
-  },
-  {
-   "title": "Mint Explainer| How Sebi’s margin tweaks may boost agri commodities",
-   "link": "https://www.livemint.com/market/stock-market-news/sebi-agricultural-commodity-trading-margins-liquidity-11795330448989.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-22T08:36:01Z",
-   "summary": "Lower margin requirements can improve capital efficiency for traders and brokers, potentially encouraging greater participation in commodity derivatives.",
-   "tags": []
-  },
-  {
-   "title": "Why gold’s five-year winning streak is under threat after dramatic selloff",
-   "link": "https://economictimes.indiatimes.com/markets/commodities/why-golds-five-year-winning-streak-is-under-threat-after-dramatic-selloff/articleshow/136070323.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-22T08:21:09Z",
-   "summary": "Gold has fallen to around $3,510 an ounce after hitting a record $5,594.82 earlier in 2026, putting it on track for its first annual loss in five years. A stronger dollar, elevated bond yields, profit-booking and weaker…",
-   "tags": [
-    "FX",
-    "Gold"
-   ]
-  },
-  {
-   "title": "WeWork India share price jumps 40% in 6 months; ICICI Direct sees 37% more gains ahead - Buy? Check Target",
-   "link": "https://www.livemint.com/market/stock-market-news/wework-india-share-price-jumps-40-in-6-months-icici-direct-sees-37-more-gains-ahead-buy-check-target-11795334473941.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-22T08:06:42Z",
-   "summary": "WeWork India shares fell 1.60% to ₹683.30 on Friday, extending weekly losses, but have gained about 40% in six months. ICICI Securities expects the company to fund planned capex internally and forecasts 22% revenue and…",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "MP criticises Guernsey and Jersey company ownership register plans",
-   "link": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Global",
-   "published": "2026-11-22T07:22:05Z",
-   "summary": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
-   "tags": []
-  },
-  {
-   "title": "Maruti Suzuki hikes select model prices amid cost pressures",
-   "link": "https://www.thehindu.com/business/Industry/maruti-suzuki-hikes-select-model-prices-amid-cost-pressures/article71730848.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-22T07:21:09Z",
-   "summary": "The latest price hike follows three rounds of price increases in the first half of financial year 2027, totalling a little over 1%",
-   "tags": []
-  },
-  {
-   "title": "What is future of gold rates? Price crash continues as AI selloff, Fed rate-hike concerns weigh on investors' sentiment",
-   "link": "https://www.livemint.com/market/commodities/what-is-future-of-gold-rates-price-crash-continues-as-ai-selloff-fed-rate-hike-concerns-weigh-on-investors-sentiment-11795325490076.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-22T06:54:55Z",
-   "summary": "Gold fell for a fifth consecutive day, recording its steepest weekly decline since March as expectations of a US Federal Reserve rate hike, a stronger dollar, and a selloff in AI-linked stocks weighed on precious metals.",
-   "tags": [
-    "Rates",
-    "FX",
-    "Gold",
-    "Equities",
-    "Fed"
-   ]
   }
  ]
 }
