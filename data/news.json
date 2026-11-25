@@ -1,7 +1,182 @@
 {
- "generated": "2026-11-24T22:04:36Z",
+ "generated": "2026-11-25T01:23:42Z",
  "errors": [],
  "items": [
+  {
+   "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+   "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-25T01:11:57Z",
+   "summary": "The verdict follows a months-long trial in New York.",
+   "tags": []
+  },
+  {
+   "title": "Stock market outlook today,25 Nov:Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
+   "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-25-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-cues-11795566965791.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-25T01:10:55Z",
+   "summary": "Indian equities faced a weak outlook after the Sensex and Nifty suffered their steepest daily declines in months, closing down 1.77% and 1.75%. Profit-booking hit banking, financial and metal stocks, while analysts…",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "The rising cost of putting food on the table in India",
+   "link": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-25T01:02:13Z",
+   "summary": "India's food inflation is broadening, squeezing household budgets.",
+   "tags": [
+    "Inflation"
+   ]
+  },
+  {
+   "title": "Global Market Today: Asian stocks fall as AI trade doubts resurface",
+   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-fall-as-ai-trade-doubts-resurface/articleshow/136145030.cms",
+   "source": "Economic Times – Markets",
+   "category": "India",
+   "published": "2026-11-25T00:57:44Z",
+   "summary": "The MSCI Asia Pacific Index slipped 0.6%, losing ground after posting its biggest rally since July on Tuesday. The losses were led by South Korea’s Kospi index, which declined 3.7%.",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "US preparing to unveil new tariffs on global trading partners",
+   "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-25T00:38:01Z",
+   "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+   "tags": []
+  },
+  {
+   "title": "Why tiny cars are taking off across Europe",
+   "link": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-25T00:34:05Z",
+   "summary": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
+   "tags": [
+    "FX"
+   ]
+  },
+  {
+   "title": "What will the energy cap changes mean for my bills?",
+   "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-25T00:33:25Z",
+   "summary": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
+   "tags": []
+  },
+  {
+   "title": "Raja Venkatraman recommends three stocks for 25 November",
+   "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-25-november-11795522828180.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-25T00:31:06Z",
+   "summary": "Market expert Raja Venkatraman shares his top stock picks for 25 November. Here’s his technical outlook and trade strategy.",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+   "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-25T00:30:52Z",
+   "summary": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
+   "tags": []
+  },
+  {
+   "title": "Chalet Hotels: is the worst behind it?",
+   "link": "https://www.livemint.com/market/mark-to-market/chalet-hotels-growth-plan-fy31-athiva-expansion-11795501814725.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-25T00:30:46Z",
+   "summary": "An ambitious FY31 expansion plan has revived investor optimism, but Chalet Hotels must overcome demand weakness, execution delays and rising investment costs to sustain growth.",
+   "tags": []
+  },
+  {
+   "title": "Dalal Street may face test from AI trade revival",
+   "link": "https://www.livemint.com/market/nvidia-ai-stocks-rally-impact-sensex-nifty-11795513010920.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-25T00:30:26Z",
+   "summary": "Foreign portfolio investors, who had been pouring money into India following the sell-off in the AI-heavy markets since 29 October, could temper capital flows into India if the global rally sustains, market experts say.",
+   "tags": []
+  },
+  {
+   "title": "Stock recommendations for 25 November from MarketSmith India",
+   "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-25-november-from-marketsmith-india-11795451274049.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-25T00:30:23Z",
+   "summary": "MarketSmith India reveals its top stock recommendations for today, 25 November. Get expert insights into the best-performing stocks to guide your investment decisions.",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "Households braced for soaring energy bills with new price cap to be announced",
+   "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "category": "Global",
+   "published": "2026-11-25T00:29:58Z",
+   "summary": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.",
+   "tags": []
+  },
+  {
+   "title": "Valuation, debt worries overshadow Tata Steel-APL Apollo deal’s strategic gains",
+   "link": "https://www.livemint.com/market/mark-to-market/tata-steel-apl-apollo-acquisition-deal-review-11795510022151.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-25T00:25:43Z",
+   "summary": "While the two-part asset-sale and buyout deal will eventually triple Tata Steel’s downstream capacity, shares of both companies slid on Monday as shareholders face a 3-to-3.5-year wait for earnings accretion.",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "Japan Stocks’ Rebound Threatened as Retail Margin Losses Balloon",
+   "link": "https://www.livemint.com/market/japan-stocks-rebound-threatened-as-retail-margin-losses-balloon-11795565829046.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-25T00:17:08Z",
+   "summary": "Japanese stocks may struggle to extend their rebound as ballooning unrealized losses among leveraged retail investors threaten to unleash further selling pressure.",
+   "tags": [
+    "Equities"
+   ]
+  },
+  {
+   "title": "Gold Slips as Investors Weigh Fed Outlook, US Tariff Plans",
+   "link": "https://www.livemint.com/market/gold-slips-as-investors-weigh-fed-outlook-us-tariff-plans-11795564730725.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-24T23:58:50Z",
+   "summary": "Gold slumped, erasing most of Monday’s dramatic rebound as investors bet on further interest-rate hikes while a tariff-driven rout in equities prompted some traders to sell bullion to cover losses elsewhere.",
+   "tags": [
+    "Rates",
+    "Gold"
+   ]
+  },
+  {
+   "title": "US stocks slide as Nvidia rally fizzles out, dollar falls",
+   "link": "https://www.livemint.com/market/us-stocks-slide-as-nvidia-rally-fizzles-out-dollar-falls-11795561223195.html",
+   "source": "Mint – Markets",
+   "category": "India",
+   "published": "2026-11-24T23:00:22Z",
+   "summary": "GLOBAL-MARKETS:US stocks slide as Nvidia rally fizzles out, dollar falls",
+   "tags": [
+    "FX",
+    "Equities"
+   ]
+  },
   {
    "title": "TSX ends lower as tech and mining shares fall",
    "link": "https://www.livemint.com/market/tsx-ends-lower-as-tech-and-mining-shares-fall-11795556702667.html",
@@ -20,15 +195,6 @@
    "category": "India",
    "published": "2026-11-24T21:38:49Z",
    "summary": "Reddit user Outrageous-Voice1459 made a lot of money on Monday.",
-   "tags": []
-  },
-  {
-   "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-   "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Global",
-   "published": "2026-11-24T21:32:34Z",
-   "summary": "The verdict follows a months-long trial in New York.",
    "tags": []
   },
   {
@@ -398,6 +564,15 @@
    "category": "India",
    "published": "2026-11-24T12:07:28Z",
    "summary": "Mumbai overtook Bengaluru as the largest recipient of AI funding in the country during the period, shows the report, which places India ninth among countries in terms of AI funding raised",
+   "tags": []
+  },
+  {
+   "title": "Global climate talks must shut door on fossil fuel ‘clout’",
+   "link": "https://www.thehindu.com/business/global-climate-talks-must-shut-the-door-on-fossil-fuel-influence/article71738093.ece",
+   "source": "The Hindu – Business",
+   "category": "India",
+   "published": "2026-11-24T11:55:09Z",
+   "summary": "The breakdown in the Antalya summit has deepened the crisis of confidence in climate diplomacy, making transparency and accountability in the negotiating process more urgent than ever.",
    "tags": []
   },
   {
@@ -3867,180 +4042,6 @@
    "published": "2026-11-20T15:28:12Z",
    "summary": "VAI is one of the three classifications, the U.S. FDA issues implying objectionable conditions or practices were found, during the inspection, but the regulator is not prepared to take or recommend any administrative or…",
    "tags": []
-  },
-  {
-   "title": "Sebi proposes limiting tenure of chief executives, independent directors of stock exchanges, market infrastruction institutions",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-limiting-tenure-of-chief-executives-independent-directors-at-exchanges/articleshow/136031465.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-20T15:09:36Z",
-   "summary": "India's Securities and Exchange Board is proposing crucial adjustments to governance norms affecting market institutions. Key suggestions include lowering the age threshold for public interest directors from 75 to 70…",
-   "tags": []
-  },
-  {
-   "title": "The secret cyber scramble to protect UK fridge freezers",
-   "link": "https://www.bbc.co.uk/news/videos/cqpv94x1zj89o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Global",
-   "published": "2026-11-20T15:08:16Z",
-   "summary": "A behind the scenes cyber-security operation has taken place to secure tens of thousands of refrigeration units from hackers, the BBC has learned.",
-   "tags": []
-  },
-  {
-   "title": "Garment exporters urged to focus on financial disciple and have strategic foresight to capture orders",
-   "link": "https://www.thehindu.com/news/cities/Coimbatore/garment-exporters-urged-to-focus-on-financial-disciple-and-have-strategic-foresight-to-capture-orders/article71724690.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-20T15:07:09Z",
-   "summary": "",
-   "tags": []
-  },
-  {
-   "title": "Anthropic shares tumble 10% after blockbuster IPO, erase debut gains; why are investors turning cautious on AI?",
-   "link": "https://www.livemint.com/market/stock-market-news/anthropic-shares-tumble-10-after-blockbuster-ipo-erase-debut-gains-why-are-investors-turning-cautious-on-ai-11795184887970.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-20T15:02:38Z",
-   "summary": "Anthropic shares fell 10% on Friday, dropping below their lowest point during Thursday’s Nasdaq debut. Despite strong IPO demand and a peak valuation near $2 trillion, the decline reflects investor uncertainty over AI…",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
-   "source": "Federal Reserve",
-   "category": "Central banks",
-   "published": "2026-11-20T15:00:00Z",
-   "summary": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
-   "tags": [
-    "Fed"
-   ]
-  },
-  {
-   "title": "Nasdaq tumbles 2% as Anthropic retreat deepens AI trade concerns",
-   "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-falls-1-at-open-as-anthropic-fails-to-steady-ai-trade/articleshow/136030779.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-20T14:59:06Z",
-   "summary": "Following a rocky market debut, Anthropic’s stock price plunge led to a notable drop in the Nasdaq Composite index. The AI sector faces growing skepticism amidst high valuations and investment risks, putting pressure on…",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "StockGro expert explains: WeWork India share price target - should investors buy, sell or hold?",
-   "link": "https://www.livemint.com/market/stock-market-news/stockgro-expert-explains-wework-india-share-price-target-should-investors-buy-sell-or-hold-11795184993421.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-20T14:56:35Z",
-   "summary": "StockGro expert Sachin Kapoor, CFA (SEBI RIA), rates WeWork India Management Ltd a Buy on dips, with a three-month target of ₹700 and a 12-month target of ₹785. Get expert insights on the coworking stock's Q2 FY27…",
-   "tags": []
-  },
-  {
-   "title": "Higher apparel prices fail to lift festive sales; industry pins hopes on wedding season",
-   "link": "https://www.thehindu.com/business/higher-apparel-prices-fail-to-lift-festive-sales-industry-pins-hopes-on-wedding-season/article71724477.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-20T14:51:50Z",
-   "summary": "Businesses will need to remain focused on demand trends, inventory management, and competitive pricing, said CMAI president Santosh Katariya.",
-   "tags": []
-  },
-  {
-   "title": "Sebi proposes easing disclosure rules for foreign funds",
-   "link": "https://www.livemint.com/market/sebi-proposes-easing-disclosure-rules-for-foreign-funds-11795183389431.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-20T14:45:39Z",
-   "summary": "Sebi has proposed scrapping additional disclosure requirements for foreign portfolio investors, arguing that the rules are out of step with global practices and may deter overseas investment.&nbsp;",
-   "tags": []
-  },
-  {
-   "title": "Thousands join cost of living protests across Europe",
-   "link": "https://www.bbc.co.uk/news/videos/c62l5jweqr4ko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "category": "Global",
-   "published": "2026-11-20T14:43:39Z",
-   "summary": "Student-led protests have swept across Europe in response to the rising cost of living, housing shortages and underfunded education.",
-   "tags": [
-    "FX"
-   ]
-  },
-  {
-   "title": "Pricol looks at doubling revenue post demerger",
-   "link": "https://www.thehindu.com/business/Industry/pricol-looks-at-doubling-revenue-post-demerger/article71724426.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-20T14:28:53Z",
-   "summary": "The thrust of the ACFMS division will be on brakes, switches, throttles and pumps.",
-   "tags": []
-  },
-  {
-   "title": "HDFC Bank shares recover 22% in Nov, adds ₹2.38 lakh crore in market value. What's fuelling the rebound?",
-   "link": "https://www.livemint.com/market/stock-market-news/hdfc-bank-shares-recover-22-in-nov-adds-rs-2-38-lakh-crore-in-market-value-whats-fuelling-the-rebound-11795182150085.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-20T13:56:40Z",
-   "summary": "HDFC Bank shares rose 22% in November as easing leadership concerns, improved business performance and stronger market sentiment drew investors back. The rally restored its market value to above ₹13 lakh crore, though…",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "BSE Sensex rejig: Shriram Finance to replace Trent; Which stocks are entering and exiting other BSE indices? Check list",
-   "link": "https://www.livemint.com/market/stock-market-news/bse-sensex-rejig-shriram-finance-to-replace-trent-which-stocks-are-entering-and-exiting-other-bse-indices-check-full-11795179927182.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-20T13:14:55Z",
-   "summary": "Shriram Finance will replace Trent in the 30-stock BSE Sensex, with the change taking effect on December 21, 2026. The reshuffle also adds five companies to the BSE 100, while Punjab National Bank, Godrej Consumer…",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "Nasdaq crashes 5% at close, erasing 2026 gains; S&P 500, Dow in correction: Stock Market Highlights",
-   "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-meta-tesla-anthropic-claude-nvidia-micron-meta-ai-stocks-fed-rate-hike-inflation-treasury-yield-news-20th-november-2026/liveblog/136028991.cms",
-   "source": "Economic Times – Markets",
-   "category": "India",
-   "published": "2026-11-20T13:09:00Z",
-   "summary": "",
-   "tags": [
-    "Equities"
-   ]
-  },
-  {
-   "title": "SoftBank shares crash 14.5%, biggest 1-day fall in 2 years: Why Anthropic's strong IPO debut failed to revive AI trade",
-   "link": "https://www.livemint.com/market/stock-market-news/softbank-shares-crash-14-5-biggest-1-day-fall-in-2-years-why-anthropics-strong-ipo-debut-failed-to-revive-ai-trade-11795173623939.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-20T12:54:13Z",
-   "summary": "SoftBank shares plunged 14.5% as a technology selloff swept Japan, despite a strong Nasdaq debut for AI company Anthropic. Investor concerns over interest rates and AI valuations weighed on the sector, while SoftBank’s…",
-   "tags": [
-    "Rates",
-    "Equities"
-   ]
-  },
-  {
-   "title": "Rupee settles above 93 level after seven months on FII flows",
-   "link": "https://www.thehindu.com/business/Industry/rupee-settles-above-93-level-after-seven-months-on-fii-flows/article71724100.ece",
-   "source": "The Hindu – Business",
-   "category": "India",
-   "published": "2026-11-20T12:35:28Z",
-   "summary": "Forex analysts attributed the rupee's strength to foreign institutional investors' unabated chase for higher returns amid a weaker American currency and waning AI-related stock rallies in the U.S. and markets like…",
-   "tags": [
-    "FX"
-   ]
-  },
-  {
-   "title": "Missed Anthropic's record IPO? Shares cool off after Nasdaq debut - Here's how Indians can invest",
-   "link": "https://www.livemint.com/market/stock-market-news/missed-anthropics-record-ipo-shares-cool-off-after-nasdaq-debut-heres-how-indians-can-invest-11795176413482.html",
-   "source": "Mint – Markets",
-   "category": "India",
-   "published": "2026-11-20T12:11:57Z",
-   "summary": "Anthropic shares surged 34% above their IPO price at Thursday’s Nasdaq debut, then pulled back in pre-market trading while remaining above the offering price.",
-   "tags": [
-    "Equities"
-   ]
   }
  ]
 }
